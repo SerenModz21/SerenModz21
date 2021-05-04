@@ -7,6 +7,8 @@
   <img width="30px" src="./assets/javascript.svg">
   <img width="30px" src="./assets/kotlin.svg">
   
+  <br />
+  
   <h3>Databases:</h3>
   <img width="30px" src="./assets/mongodb.svg">
   <img width="30px" src="./assets/postgresql.svg">
