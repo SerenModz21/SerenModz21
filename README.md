@@ -2,7 +2,7 @@
   <img width="30px" src="./assets/typescript.svg">
   <img width="30px" src="./assets/javascript.svg">
   <img width="30px" src="./assets/kotlin.svg">
-  <img width="30px" src="./assets/java.svg">
+  <img width="30px" src="./assets/docker.svg">
   <img width="30px" src="./assets/react.svg">
   <img width="30px" src="./assets/mongodb.svg">
   <img width="30px" src="./assets/postgresql.svg">
