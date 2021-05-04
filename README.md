@@ -6,6 +6,7 @@
   <img width="30px" src="./assets/mongodb.svg">
   <img width="30px" src="./assets/postgresql.svg">
   <img width="30px" src="./assets/docker.svg">
+  <img width="30px" src="./assets/redis.svg">
   <img width="30px" src="./assets/webstorm.svg">
   <img width="30px" src="./assets/intellij-idea.svg">
 </div>
