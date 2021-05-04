@@ -4,7 +4,7 @@
 ## Languages
 
 <div>
-  <img width="50px" src="./assets/typescript.svg">
-  <img width="50px" src="./assets/javascript.svg">
-  <img width="50px" src="./assets/kotlin.svg">
+  <img width="30px" src="./assets/typescript.svg">
+  <img width="30px" src="./assets/javascript.svg">
+  <img width="30px" src="./assets/kotlin.svg">
 </div>
