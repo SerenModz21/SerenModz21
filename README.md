@@ -1,5 +1,3 @@
-### Tools
-
 <div>
   <img width="30px" src="./assets/typescript.svg">
   <img width="30px" src="./assets/javascript.svg">
