@@ -12,9 +12,6 @@
 </div>
 
 <br />
-
-![](https://hit.yhype.me/github/profile?user_id=41450647)
-![](https://komarev.com/ghpvc/?username=SerenModz21&style=plastic)
  
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
