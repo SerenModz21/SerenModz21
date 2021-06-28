@@ -13,8 +13,6 @@
 
 <br />
  
-![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
- 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -95,3 +93,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 28/06/2021
 <!--END_SECTION:waka-->
+
+![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
