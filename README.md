@@ -17,11 +17,10 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 ### Tools
 
-| **Learning**                                        | **Languages**                                               | **Databases**                                               | **Tools**                                           | **Editors**                                                  |
-|-----------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------|
-| <img width="19px" src="./assets/kotlin.svg"> Kotlin | <img width="19px" src="./assets/typescript.svg"> TypeScript | <img width="19px" src="./assets/mongodb.svg"> MongoDB       | <img width="19px" src="./assets/docker.svg"> Docker | <img width="19px" src="./assets/webstorm.svg"> Webstorm      |
-| <img width="19px" src="./assets/react.svg"> React   | <img width="19px" src="./assets/javascript.svg"> JavaScript | <img width="19px" src="./assets/postgresql.svg"> PostgreSQL |                                                     | <img width="19px" src="./assets/intellij-idea.svg"> IntelliJ |
-|                                                     |                                                             | <img width="19px" src="./assets/redis.svg"> Redis           |                                                     |                                                              |
+ **Learning**                                        | **Languages**                                               | **Databases**                                               | **Other**                                           | **Editors**                                                  
+-----------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------
+ <img width="19px" src="./assets/kotlin.svg"> Kotlin | <img width="19px" src="./assets/typescript.svg"> TypeScript | <img width="19px" src="./assets/mongodb.svg"> MongoDB       | <img width="19px" src="./assets/docker.svg"> Docker | <img width="19px" src="./assets/webstorm.svg"> Webstorm      
+ <img width="19px" src="./assets/react.svg"> React   | <img width="19px" src="./assets/javascript.svg"> JavaScript | <img width="19px" src="./assets/postgresql.svg"> PostgreSQL | <img width="19px" src="./assets/redis.svg"> Redis   | <img width="19px" src="./assets/intellij-idea.svg"> IntelliJ 
 
 ### GitHub & WakaTime Stats
 
