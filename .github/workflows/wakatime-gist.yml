@@ -1,0 +1,19 @@
+name: WakaTime Gist Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  update:
+    name: Update Wakatime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.3.4
+      - uses: matchai/waka-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 78d648b5c978d2b30f568ee112561c13
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          
