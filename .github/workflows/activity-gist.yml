@@ -7,6 +7,7 @@ on:
 
 jobs:
   update:
+    if: github.repository_owner == 'SerenModz21' # shouldn't be running on forks
     name: Update Activity Stats
     runs-on: ubuntu-latest
     steps:
