@@ -28,11 +28,11 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18584%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18568%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,313 Contributions in the Year 2021
+> 🏆 1,315 Contributions in the Year 2021
  > 
 > 📦 4.0 kB Used in Github's Storage 
  > 
@@ -45,10 +45,10 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    159 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-🌆 Daytime    207 commits    █████░░░░░░░░░░░░░░░░░░░░   20.91% 
+🌞 Morning    158 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.96% 
+🌆 Daytime    209 commits    █████░░░░░░░░░░░░░░░░░░░░   21.11% 
 🌃 Evening    359 commits    █████████░░░░░░░░░░░░░░░░   36.26% 
-🌙 Night      265 commits    ██████░░░░░░░░░░░░░░░░░░░   26.77%
+🌙 Night      264 commits    ██████░░░░░░░░░░░░░░░░░░░   26.67%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -57,8 +57,8 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 Monday       146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
 Tuesday      193 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.49% 
 Wednesday    136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Thursday     152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
-Friday       139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
+Thursday     153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
+Friday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
 Saturday     80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
 Sunday       144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55%
 
