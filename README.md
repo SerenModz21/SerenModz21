@@ -32,7 +32,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 **🐱 My Github Data** 
 
-> 🏆 1,515 Contributions in the Year 2021
+> 🏆 1,516 Contributions in the Year 2021
  > 
 > 📦 6.4 kB Used in Github's Storage 
  > 
@@ -45,10 +45,10 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
+🌞 Morning    139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
 🌆 Daytime    209 commits    █████░░░░░░░░░░░░░░░░░░░░   20.21% 
 🌃 Evening    424 commits    ██████████░░░░░░░░░░░░░░░   41.01% 
-🌙 Night      263 commits    ██████░░░░░░░░░░░░░░░░░░░   25.44%
+🌙 Night      262 commits    ██████░░░░░░░░░░░░░░░░░░░   25.34%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
