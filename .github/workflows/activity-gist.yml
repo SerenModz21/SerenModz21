@@ -11,7 +11,7 @@ jobs:
     name: Update Activity Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2.3.4
+      - uses: actions/checkout@v2.4.0
       - uses: JasonEtco/activity-box@master
         env:
           GH_PAT: ${{ secrets.GH_TOKEN }}
