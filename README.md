@@ -71,13 +71,13 @@ Sunday       171 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-SQL                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-DataGrip                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-deck                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
