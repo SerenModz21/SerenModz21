@@ -32,7 +32,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 **🐱 My Github Data** 
 
-> 🏆 1,694 Contributions in the Year 2021
+> 🏆 1,695 Contributions in the Year 2021
  > 
 > 📦 80.2 kB Used in Github's Storage 
  > 
