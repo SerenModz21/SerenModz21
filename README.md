@@ -28,13 +28,13 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42875%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42889%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 104 Contributions in the Year 2022
  > 
-> 📦 7.8 kB Used in Github's Storage 
+> 📦 8.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,11 +90,11 @@ deck                     31 mins             █░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               15 repos            █████████████████░░░░░░░░   71.43% 
-Kotlin                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+TypeScript               15 repos            █████████████████░░░░░░░░   68.18% 
+Kotlin                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
