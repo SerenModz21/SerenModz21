@@ -30,7 +30,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C334%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Thousand%20lines%20of%20code-blue)
 
@@ -38,7 +38,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 > 🏆 181 Contributions in the Year 2022
  > 
-> 📦 6.4 kB Used in GitHub's Storage 
+> 📦 6.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,5 +104,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2022 07:06:35 UTC
+ Last Updated on 28/03/2022 15:06:17 UTC
 <!--END_SECTION:waka-->
