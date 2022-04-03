@@ -38,7 +38,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 > 🏆 183 Contributions in the Year 2022
  > 
-> 📦 5.7 kB Used in GitHub's Storage 
+> 📦 5.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,16 +75,13 @@ Sunday       181 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Nginx Configuration      1 hr 30 mins        ███████████████░░░░░░░░░░   63.09% 
-Nginx configuration file 29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.4% 
-Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.09%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 hrs 22 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nginx                    2 hrs 22 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -101,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2022 00:30:32 UTC
+ Last Updated on 03/04/2022 03:23:00 UTC
 <!--END_SECTION:waka-->
