@@ -28,6 +28,8 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C336%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Thousand%20lines%20of%20code-blue)
@@ -73,17 +75,13 @@ Sunday       183 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               37 mins             █████████░░░░░░░░░░░░░░░░   37.01% 
-Docker                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.3% 
-YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
-Prisma                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
-.env file                9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.49%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 40 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-deck                     1 hr 40 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -100,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2022 23:06:12 UTC
+ Last Updated on 11/04/2022 02:41:27 UTC
 <!--END_SECTION:waka-->
