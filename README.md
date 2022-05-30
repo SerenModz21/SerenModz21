@@ -32,11 +32,11 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 248 Contributions in the Year 2022
+> 🏆 253 Contributions in the Year 2022
  > 
 > 📦 5.0 kB Used in GitHub's Storage 
  > 
@@ -49,8 +49,8 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
-🌆 Daytime    226 commits    █████░░░░░░░░░░░░░░░░░░░░   19.72% 
+🌞 Morning    152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.26% 
+🌆 Daytime    227 commits    █████░░░░░░░░░░░░░░░░░░░░   19.81% 
 🌃 Evening    528 commits    ███████████░░░░░░░░░░░░░░   46.07% 
 🌙 Night      239 commits    █████░░░░░░░░░░░░░░░░░░░░   20.86%
 
@@ -58,12 +58,12 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       207 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.06% 
-Tuesday      183 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
+Monday       210 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
+Tuesday      182 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
 Wednesday    170 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
 Thursday     141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
 Friday       159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-Saturday     103 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
+Saturday     101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
 Sunday       183 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.97%
 
 ```
@@ -105,5 +105,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2022 16:11:39 UTC
+ Last Updated on 30/05/2022 17:17:08 UTC
 <!--END_SECTION:waka-->
