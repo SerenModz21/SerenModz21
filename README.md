@@ -28,7 +28,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C371%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -75,15 +75,14 @@ Sunday       183 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     6 hrs               ███████████████████████░░   94.74% 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
+YAML                     4 hrs 45 mins       ████████████████████████░   95.59% 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.41%
 
 🔥 Editors: 
-VS Code                  6 hrs 20 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 58 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-docker                   6 hrs 20 mins       █████████████████████████   100.0%
+docker                   4 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
@@ -100,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2022 23:07:12 UTC
+ Last Updated on 10/06/2022 00:36:26 UTC
 <!--END_SECTION:waka-->
