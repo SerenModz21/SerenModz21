@@ -28,7 +28,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C371%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -36,7 +36,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 **🐱 My GitHub Data** 
 
-> 🏆 270 Contributions in the Year 2022
+> 🏆 280 Contributions in the Year 2022
  > 
 > 📦 5.1 kB Used in GitHub's Storage 
  > 
@@ -51,20 +51,20 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ```text
 🌞 Morning    143 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
 🌆 Daytime    229 commits    █████░░░░░░░░░░░░░░░░░░░░   20.11% 
-🌃 Evening    528 commits    ███████████░░░░░░░░░░░░░░   46.36% 
-🌙 Night      239 commits    █████░░░░░░░░░░░░░░░░░░░░   20.98%
+🌃 Evening    529 commits    ███████████░░░░░░░░░░░░░░   46.44% 
+🌙 Night      238 commits    █████░░░░░░░░░░░░░░░░░░░░   20.9%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       218 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.14% 
-Tuesday      179 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
+Tuesday      176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
 Wednesday    169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
 Thursday     136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-Friday       160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
-Saturday     94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-Sunday       183 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.07%
+Friday       159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
+Saturday     100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+Sunday       181 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.89%
 
 ```
 
@@ -99,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2022 22:05:12 UTC
+ Last Updated on 11/06/2022 23:04:58 UTC
 <!--END_SECTION:waka-->
