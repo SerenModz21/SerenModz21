@@ -30,22 +30,23 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C372%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Thousand%20lines%20of%20code-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 288 contributions in 2022
-
-📦 5.1 kB used in GitHub's storage 
-
-📜 10 Public Repositories 
-
-🔑 5 Private Repositories  
+> 🏆 288 Contributions in the Year 2022
  > 
-**I'm a night 🦉** 
+> 📦 5.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    143 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
@@ -54,7 +55,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 🌙 Night      245 commits    █████░░░░░░░░░░░░░░░░░░░░   21.42%
 
 ```
-📅 **I'm most productive on Monday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       218 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
@@ -68,7 +69,7 @@ Sunday       189 commits    ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/London
@@ -90,7 +91,7 @@ KKB                      47 mins             ███░░░░░░░░�
 
 ```
 
-**💻 I mostly code in TypeScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               14 repos            ████████████████░░░░░░░░░   66.67% 
@@ -103,5 +104,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 08:11:40 UTC
+ Last Updated on 12/06/2022 09:08:06 UTC
 <!--END_SECTION:waka-->
