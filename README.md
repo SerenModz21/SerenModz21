@@ -28,7 +28,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C373%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -36,7 +36,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 **🐱 My GitHub Data** 
 
-> 🏆 294 Contributions in the Year 2022
+> 🏆 297 Contributions in the Year 2022
  > 
 > 📦 5.1 kB Used in GitHub's Storage 
  > 
@@ -50,8 +50,8 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 ```text
 🌞 Morning    143 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌆 Daytime    229 commits    █████░░░░░░░░░░░░░░░░░░░░   20.02% 
-🌃 Evening    525 commits    ███████████░░░░░░░░░░░░░░   45.89% 
+🌆 Daytime    228 commits    █████░░░░░░░░░░░░░░░░░░░░   19.93% 
+🌃 Evening    526 commits    ███████████░░░░░░░░░░░░░░   45.98% 
 🌙 Night      247 commits    █████░░░░░░░░░░░░░░░░░░░░   21.59%
 
 ```
@@ -59,10 +59,10 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 ```text
 Monday       220 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-Tuesday      177 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
-Wednesday    167 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
+Tuesday      180 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
+Wednesday    166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.51% 
 Thursday     133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Friday       158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+Friday       156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
 Saturday     100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
 Sunday       189 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52%
 
@@ -103,5 +103,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2022 16:08:28 UTC
+ Last Updated on 14/06/2022 17:14:37 UTC
 <!--END_SECTION:waka-->
