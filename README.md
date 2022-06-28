@@ -28,7 +28,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,7 +38,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 > 🏆 321 Contributions in the Year 2022
  > 
-> 📦 5.9 kB Used in GitHub's Storage 
+> 📦 5.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,19 +75,14 @@ Sunday       190 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               4 hrs 47 mins       ████████████████████████░   95.84% 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
-tsconfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+TypeScript               18 mins             █████████████████████░░░░   84.87% 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.13%
 
 🔥 Editors: 
-IntelliJ                 4 hrs 33 mins       ██████████████████████░░░   91.21% 
-VS Code                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.79%
+VS Code                  21 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-slash                    4 hrs 38 mins       ███████████████████████░░   92.82% 
-KyeKillerBot             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.18%
+KyeKillerBot             21 mins             █████████████████████████   100.0%
 
 ```
 
@@ -104,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2022 23:08:02 UTC
+ Last Updated on 28/06/2022 00:40:35 UTC
 <!--END_SECTION:waka-->
