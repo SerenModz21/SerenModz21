@@ -28,7 +28,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C406%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -36,7 +36,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 **🐱 My GitHub Data** 
 
-> 🏆 324 Contributions in the Year 2022
+> 🏆 327 Contributions in the Year 2022
  > 
 > 📦 5.9 kB Used in GitHub's Storage 
  > 
@@ -75,14 +75,20 @@ Sunday       190 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               18 mins             █████████████████████░░░░   84.87% 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.13%
+Java                     3 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   42.7% 
+Kotlin                   1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   24.77% 
+Properties               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
+TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28%
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.0%
+IntelliJ                 6 hrs 45 mins       ███████████████████████░░   94.96% 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
 
 🐱‍💻 Projects: 
-KyeKillerBot             21 mins             █████████████████████████   100.0%
+fabric-mod               6 hrs 42 mins       ███████████████████████░░   94.4% 
+KyeKillerBot             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
 
 ```
 
@@ -99,5 +105,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2022 23:07:12 UTC
+ Last Updated on 29/06/2022 00:33:05 UTC
 <!--END_SECTION:waka-->
