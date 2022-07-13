@@ -28,15 +28,15 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C449%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C450%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 398 Contributions in the Year 2022
+> 🏆 401 Contributions in the Year 2022
  > 
 > 📦 6.0 kB Used in GitHub's Storage 
  > 
@@ -50,19 +50,19 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 ```text
 🌞 Morning    144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
-🌆 Daytime    229 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.59% 
-🌃 Evening    566 commits    ███████████░░░░░░░░░░░░░░   45.94% 
-🌙 Night      293 commits    ██████░░░░░░░░░░░░░░░░░░░   23.78%
+🌆 Daytime    228 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
+🌃 Evening    569 commits    ███████████░░░░░░░░░░░░░░   46.19% 
+🌙 Night      291 commits    ██████░░░░░░░░░░░░░░░░░░░   23.62%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       234 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-Tuesday      201 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
-Wednesday    186 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
+Tuesday      199 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
+Wednesday    189 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
 Thursday     144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
-Friday       171 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
+Friday       170 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.8% 
 Saturday     101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
 Sunday       195 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.83%
 
@@ -104,5 +104,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2022 21:14:49 UTC
+ Last Updated on 13/07/2022 22:06:34 UTC
 <!--END_SECTION:waka-->
