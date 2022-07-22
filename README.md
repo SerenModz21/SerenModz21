@@ -28,7 +28,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C478%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -38,7 +38,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 > 🏆 406 Contributions in the Year 2022
  > 
-> 📦 6.0 kB Used in GitHub's Storage 
+> 📦 6.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,17 +75,19 @@ Sunday       195 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               23 hrs 34 mins      █████████████████████░░░░   83.83% 
-YAML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
-JSON                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-.env file                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26% 
-tsconfig                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+TypeScript               15 hrs 51 mins      ████████████████████░░░░░   80.65% 
+YAML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
+JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+.env file                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 🔥 Editors: 
-IntelliJ                 28 hrs 7 mins       █████████████████████████   100.0%
+IntelliJ                 19 hrs 23 mins      ████████████████████████░   98.58% 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
 
 🐱‍💻 Projects: 
-mixtape-ts               28 hrs 7 mins       █████████████████████████   100.0%
+mixtape-ts               19 hrs 23 mins      ████████████████████████░   98.58% 
+docker                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
 
 ```
 
@@ -102,5 +104,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2022 23:08:14 UTC
+ Last Updated on 22/07/2022 00:45:01 UTC
 <!--END_SECTION:waka-->
