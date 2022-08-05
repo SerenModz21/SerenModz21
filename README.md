@@ -28,7 +28,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C538%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C538%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
@@ -38,7 +38,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 > 🏆 437 Contributions in the Year 2022
  > 
-> 📦 5.3 kB Used in GitHub's Storage 
+> 📦 5.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,5 +107,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2022 16:05:51 UTC
+ Last Updated on 05/08/2022 17:10:29 UTC
 <!--END_SECTION:waka-->
