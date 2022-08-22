@@ -75,13 +75,13 @@ Sunday       190 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-docker                   20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -98,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2022 23:06:51 UTC
+ Last Updated on 22/08/2022 00:07:27 UTC
 <!--END_SECTION:waka-->
