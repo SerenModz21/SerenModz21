@@ -36,8 +36,6 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 **🐱 My GitHub Data** 
 
-> 🏆 449 Contributions in the Year 2022
- > 
 > 📦 5.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -102,5 +100,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 11:05:39 UTC
+ Last Updated on 14/09/2022 12:06:42 UTC
 <!--END_SECTION:waka-->
