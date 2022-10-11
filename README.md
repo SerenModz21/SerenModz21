@@ -28,7 +28,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C558%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C566%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,7 +38,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 > 🏆 426 Contributions in the Year 2022
  > 
-> 📦 5.4 kB Used in GitHub's Storage 
+> 📦 5.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,17 +75,19 @@ Sunday       178 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     1 hr 21 mins        ██████████████░░░░░░░░░░░   58.99% 
-Other                    41 mins             ███████░░░░░░░░░░░░░░░░░░   29.72% 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+TypeScript               6 hrs 44 mins       █████████████████░░░░░░░░   69.18% 
+YAML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.13% 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.0%
+IntelliJ                 7 hrs 16 mins       ██████████████████░░░░░░░   74.78% 
+VS Code                  2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22%
 
 🐱‍💻 Projects: 
-docker                   2 hrs 18 mins       █████████████████████████   100.0%
+serenmodz.rocks          7 hrs 16 mins       ██████████████████░░░░░░░   74.78% 
+docker                   2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22%
 
 ```
 
@@ -102,5 +104,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2022 23:05:43 UTC
+ Last Updated on 11/10/2022 00:08:33 UTC
 <!--END_SECTION:waka-->
