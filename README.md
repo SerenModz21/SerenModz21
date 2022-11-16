@@ -28,7 +28,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C596%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C595%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
@@ -36,9 +36,9 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 **🐱 My GitHub Data** 
 
-> 🏆 454 Contributions in the Year 2022
+> 🏆 456 Contributions in the Year 2022
  > 
-> 📦 6.9 kB Used in GitHub's Storage 
+> 📦 6.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,20 +51,20 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ```text
 🌞 Morning    128 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
 🌆 Daytime    230 commits    █████░░░░░░░░░░░░░░░░░░░░   20.3% 
-🌃 Evening    522 commits    ███████████░░░░░░░░░░░░░░   46.07% 
-🌙 Night      253 commits    █████░░░░░░░░░░░░░░░░░░░░   22.33%
+🌃 Evening    525 commits    ███████████░░░░░░░░░░░░░░   46.34% 
+🌙 Night      250 commits    █████░░░░░░░░░░░░░░░░░░░░   22.07%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       191 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
-Tuesday      186 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
-Wednesday    185 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
+Tuesday      189 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.68% 
+Wednesday    184 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
 Thursday     136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
 Friday       152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.42% 
 Saturday     105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.27% 
-Sunday       178 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.71%
+Sunday       176 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.53%
 
 ```
 
@@ -103,5 +103,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2022 23:04:33 UTC
+ Last Updated on 16/11/2022 00:05:17 UTC
 <!--END_SECTION:waka-->
