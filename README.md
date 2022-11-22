@@ -30,7 +30,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C597%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Thousand%20lines%20of%20code-blue)
 
@@ -104,5 +104,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2022 03:21:32 UTC
+ Last Updated on 22/11/2022 04:05:00 UTC
 <!--END_SECTION:waka-->
