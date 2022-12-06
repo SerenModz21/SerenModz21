@@ -42,7 +42,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -106,5 +106,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2022 16:08:38 UTC
+ Last Updated on 06/12/2022 17:06:06 UTC
 <!--END_SECTION:waka-->
