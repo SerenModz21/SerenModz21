@@ -28,7 +28,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C609%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C609%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
@@ -36,7 +36,7 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 **🐱 My GitHub Data** 
 
-> 🏆 475 Contributions in the Year 2022
+> 🏆 476 Contributions in the Year 2022
  > 
 > 📦 7.9 kB Used in GitHub's Storage 
  > 
@@ -51,8 +51,8 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ```text
 🌞 Morning    119 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
 🌆 Daytime    239 commits    █████░░░░░░░░░░░░░░░░░░░░   21.63% 
-🌃 Evening    484 commits    ███████████░░░░░░░░░░░░░░   43.8% 
-🌙 Night      263 commits    ██████░░░░░░░░░░░░░░░░░░░   23.8%
+🌃 Evening    483 commits    ███████████░░░░░░░░░░░░░░   43.71% 
+🌙 Night      264 commits    ██████░░░░░░░░░░░░░░░░░░░   23.89%
 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -60,11 +60,11 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ```text
 Monday       182 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
 Tuesday      182 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
-Wednesday    172 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
+Wednesday    173 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
 Thursday     148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
 Friday       144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
 Saturday     109 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-Sunday       168 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.2%
+Sunday       167 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.11%
 
 ```
 
@@ -106,5 +106,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2022 01:31:19 UTC
+ Last Updated on 14/12/2022 02:29:59 UTC
 <!--END_SECTION:waka-->
