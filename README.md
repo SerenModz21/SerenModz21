@@ -32,11 +32,11 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 499 Contributions in the Year 2022
+> 🏆 502 Contributions in the Year 2022
  > 
 > 📦 8.1 kB Used in GitHub's Storage 
  > 
@@ -49,9 +49,9 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    119 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+🌞 Morning    116 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
 🌆 Daytime    239 commits    █████░░░░░░░░░░░░░░░░░░░░   21.63% 
-🌃 Evening    481 commits    ███████████░░░░░░░░░░░░░░   43.53% 
+🌃 Evening    484 commits    ███████████░░░░░░░░░░░░░░   43.8% 
 🌙 Night      266 commits    ██████░░░░░░░░░░░░░░░░░░░   24.07%
 
 ```
@@ -61,9 +61,9 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 Monday       174 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
 Tuesday      182 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
 Wednesday    179 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-Thursday     148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
+Thursday     145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
 Friday       129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
-Saturday     126 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
+Saturday     129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
 Sunday       167 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.11%
 
 ```
@@ -104,5 +104,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2022 22:04:06 UTC
+ Last Updated on 17/12/2022 23:05:21 UTC
 <!--END_SECTION:waka-->
