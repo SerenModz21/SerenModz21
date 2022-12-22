@@ -20,15 +20,15 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 ![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C615%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 515 Contributions in the Year 2022
+> 🏆 519 Contributions in the Year 2022
  > 
 > 📦 8.9 kB Used in GitHub's Storage 
  > 
@@ -41,10 +41,10 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    115 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
+🌞 Morning    119 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
 🌆 Daytime    239 commits    █████░░░░░░░░░░░░░░░░░░░░   21.45% 
-🌃 Evening    484 commits    ██████████░░░░░░░░░░░░░░░   43.45% 
-🌙 Night      276 commits    ██████░░░░░░░░░░░░░░░░░░░   24.78%
+🌃 Evening    481 commits    ██████████░░░░░░░░░░░░░░░   43.18% 
+🌙 Night      275 commits    ██████░░░░░░░░░░░░░░░░░░░   24.69%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -53,9 +53,9 @@ Hello! My name is Seren_Modz 21, an inpired back-end developer. I'm from the Uni
 Monday       176 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.8% 
 Tuesday      182 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
 Wednesday    180 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.16% 
-Thursday     151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.55% 
+Thursday     152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
 Friday       129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
-Saturday     129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+Saturday     128 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
 Sunday       167 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.99%
 
 ```
@@ -95,5 +95,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2022 09:04:16 UTC
+ Last Updated on 22/12/2022 10:04:04 UTC
 <!--END_SECTION:waka-->
