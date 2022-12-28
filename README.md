@@ -228,6 +228,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
     <b>My Wakatime Stats</b>
   </summary>
   <br />
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2019%20mins-blue)
 
