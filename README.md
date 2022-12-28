@@ -225,7 +225,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 <details>
   <summary>
-    <b>Wakatime Readme Stats</b>
+    <b>My Wakatime Stats</b>
   </summary>
   <br />
 <!--START_SECTION:waka-->
