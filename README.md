@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C657%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C658%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -277,13 +277,17 @@ Sunday         200 commits       ████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   26 mins             ████████████░░░░░░░░░░░░░   50.16 % 
+TypeScript               13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+JSON                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+yarn.lock                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Kyu                      52 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -300,7 +304,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2023 00:04:51 UTC
+ Last Updated on 08/02/2023 01:33:45 UTC
 <!--END_SECTION:waka-->
 </details>
 
