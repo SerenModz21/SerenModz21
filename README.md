@@ -234,11 +234,11 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-157.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 12.6 kB Used in GitHub's Storage 
+> 📦 12.7 kB Used in GitHub's Storage 
  > 
 > 🏆 94 Contributions in the Year 2023
  > 
@@ -306,7 +306,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2023 08:02:10 UTC
+ Last Updated on 24/02/2023 09:02:05 UTC
 <!--END_SECTION:waka-->
 </details>
 
