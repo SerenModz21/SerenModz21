@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C705%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C709%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -275,13 +275,17 @@ Sunday                   348 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 50 mins       ██████████████████░░░░░░░   71.64 % 
+JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+TSConfig                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+VoxilityRP               3 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -297,7 +301,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/03/2023 00:03:06 UTC
+ Last Updated on 05/03/2023 01:30:23 UTC
 <!--END_SECTION:waka-->
 </details>
 
