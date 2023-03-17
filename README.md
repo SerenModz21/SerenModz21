@@ -238,7 +238,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 16.1 kB Used in GitHub's Storage 
+> 📦 16.0 kB Used in GitHub's Storage 
  > 
 > 🏆 127 Contributions in the Year 2023
  > 
@@ -299,7 +299,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2023 17:04:07 UTC
+ Last Updated on 17/03/2023 18:03:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
