@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C727%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C728%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -238,7 +238,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 18.1 kB Used in GitHub's Storage 
+> 📦 18.0 kB Used in GitHub's Storage 
  > 
 > 🏆 135 Contributions in the Year 2023
  > 
@@ -275,17 +275,17 @@ Sunday                   2081 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               5 hrs 20 mins       ████████████████████░░░░░   81.32 % 
-Batchfile                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               6 hrs 22 mins       █████████████████████░░░░   83.18 % 
+Batchfile                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cdn-worker               6 hrs 34 mins       █████████████████████████   100.00 % 
+cdn-worker               7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -301,7 +301,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2023 00:03:26 UTC
+ Last Updated on 22/03/2023 01:29:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
