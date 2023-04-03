@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C734%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C734%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -275,14 +275,15 @@ Sunday                   2082 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     50 mins             ████████████████████░░░░░   78.83 % 
-Other                    13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+JSON                     1 hr 7 mins         ████████████████████░░░░░   79.64 % 
+Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-craftable-music          1 hr 3 mins         █████████████████████████   100.00 % 
+craftable-music          1 hr 4 mins         ███████████████████░░░░░░   76.12 % 
+CraftableMusicDiscs      20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -298,7 +299,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2023 23:06:21 UTC
+ Last Updated on 03/04/2023 00:06:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
