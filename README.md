@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C866%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C865%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -238,7 +238,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 18.8 kB Used in GitHub's Storage 
+> 📦 18.7 kB Used in GitHub's Storage 
  > 
 > 🏆 321 Contributions in the Year 2023
  > 
@@ -305,7 +305,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2023 22:07:37 UTC
+ Last Updated on 13/06/2023 23:06:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
