@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C877%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C877%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -240,7 +240,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 > 📦 18.7 kB Used in GitHub's Storage 
  > 
-> 🏆 335 Contributions in the Year 2023
+> 🏆 334 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -251,7 +251,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2094 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+🌞 Morning                2095 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 🌆 Daytime                2258 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
 🌃 Evening                5447 commits        ██████████░░░░░░░░░░░░░░░   40.89 % 
 🌙 Night                  3521 commits        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
@@ -265,7 +265,7 @@ Wednesday                2059 commits        ████░░░░░░░�
 Thursday                 2014 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 Friday                   1599 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 Saturday                 1655 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Sunday                   1935 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Sunday                   1936 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
 ```
 
 
@@ -304,7 +304,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/06/2023 08:07:06 UTC
+ Last Updated on 25/06/2023 09:08:20 UTC
 <!--END_SECTION:waka-->
 </details>
 
