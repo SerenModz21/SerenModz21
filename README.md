@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C898%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C898%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -238,9 +238,9 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 20.6 kB Used in GitHub's Storage 
+> 📦 20.5 kB Used in GitHub's Storage 
  > 
-> 🏆 375 Contributions in the Year 2023
+> 🏆 376 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -252,17 +252,17 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ```text
 🌞 Morning                1797 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-🌆 Daytime                1865 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+🌆 Daytime                1866 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 🌃 Evening                5424 commits        ███████████░░░░░░░░░░░░░░   42.69 % 
 🌙 Night                  3619 commits        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1834 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Monday                   1834 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 Tuesday                  1807 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 Wednesday                1940 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Thursday                 2226 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Thursday                 2227 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
 Friday                   1439 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 Saturday                 1648 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
 Sunday                   1811 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
@@ -303,7 +303,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2023 14:07:06 UTC
+ Last Updated on 20/07/2023 15:07:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
