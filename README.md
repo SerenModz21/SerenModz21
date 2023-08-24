@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C954%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C954%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -240,7 +240,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 > 📦 27.5 kB Used in GitHub's Storage 
  > 
-> 🏆 463 Contributions in the Year 2023
+> 🏆 464 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -253,19 +253,19 @@ I am an inspired back-end developer and full-time college student from the UK. I
 ```text
 🌞 Morning                1712 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 🌆 Daytime                1852 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-🌃 Evening                5303 commits        ███████████░░░░░░░░░░░░░░   43.03 % 
-🌙 Night                  3458 commits        ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+🌃 Evening                5304 commits        ███████████░░░░░░░░░░░░░░   43.03 % 
+🌙 Night                  3458 commits        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1810 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Monday                   1810 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
 Tuesday                  1744 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 Wednesday                1939 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Thursday                 2182 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Thursday                 2183 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 Friday                   1368 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 Saturday                 1615 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Sunday                   1667 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Sunday                   1667 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
 ```
 
 
@@ -305,7 +305,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2023 21:07:24 UTC
+ Last Updated on 24/08/2023 22:07:04 UTC
 <!--END_SECTION:waka-->
 </details>
 
