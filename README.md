@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C963%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C963%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -240,7 +240,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 > 📦 27.3 kB Used in GitHub's Storage 
  > 
-> 🏆 482 Contributions in the Year 2023
+> 🏆 483 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -251,17 +251,17 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2103 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+🌞 Morning                2103 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 🌆 Daytime                2156 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-🌃 Evening                6402 commits        ██████████░░░░░░░░░░░░░░░   41.91 % 
-🌙 Night                  4616 commits        ████████░░░░░░░░░░░░░░░░░   30.22 % 
+🌃 Evening                6403 commits        ██████████░░░░░░░░░░░░░░░   41.91 % 
+🌙 Night                  4616 commits        ████████░░░░░░░░░░░░░░░░░   30.21 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2155 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 Tuesday                  2037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Wednesday                2250 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Wednesday                2251 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 Thursday                 2789 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
 Friday                   1757 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 Saturday                 2003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
@@ -302,7 +302,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2023 21:07:03 UTC
+ Last Updated on 13/09/2023 22:07:01 UTC
 <!--END_SECTION:waka-->
 </details>
 
