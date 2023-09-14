@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C963%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C963%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -301,7 +301,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2023 21:07:03 UTC
+ Last Updated on 14/09/2023 22:06:56 UTC
 <!--END_SECTION:waka-->
 </details>
 
