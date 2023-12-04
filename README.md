@@ -275,15 +275,13 @@ Sunday                   1963 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               3 hrs 33 mins       █████████████████████████   98.86 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Kings-Utility            3 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -299,7 +297,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2023 00:07:21 UTC
+ Last Updated on 04/12/2023 01:32:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
