@@ -240,6 +240,8 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 > 📦 30.3 kB Used in GitHub's Storage 
  > 
+> 🏆 602 Contributions in the Year 2023
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -299,7 +301,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2023 18:07:45 UTC
+ Last Updated on 08/12/2023 19:07:28 UTC
 <!--END_SECTION:waka-->
 </details>
 
