@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C077%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C079%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -238,7 +238,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 30.8 kB Used in GitHub's Storage 
+> 📦 30.9 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2024
  > 
@@ -275,17 +275,17 @@ Sunday                   1869 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Astro                    6 hrs 59 mins       ████████████████████░░░░░   80.09 % 
-TypeScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Astro                    8 hrs 23 mins       ███████████████████░░░░░░   77.90 % 
+TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-serenmodz.rocks          8 hrs 44 mins       █████████████████████████   100.00 % 
+serenmodz.rocks          10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -301,7 +301,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2024 00:04:12 UTC
+ Last Updated on 16/01/2024 01:28:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
