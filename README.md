@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C114%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C111%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -296,16 +296,16 @@ docker                   28 mins             █░░░░░░░░░░�
 
 ```text
 TypeScript               25 repos            ████████████████░░░░░░░░░   62.50 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
 
 
- Last Updated on 13/02/2024 23:03:34 UTC
+ Last Updated on 14/02/2024 00:03:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
