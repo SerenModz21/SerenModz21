@@ -273,13 +273,13 @@ Sunday                   1696 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-invaild-activity         32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -295,7 +295,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2024 23:03:34 UTC
+ Last Updated on 18/04/2024 00:04:13 UTC
 <!--END_SECTION:waka-->
 </details>
 
