@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C201%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C203%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -275,13 +275,17 @@ Sunday                   1713 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 41 mins        ████████████████░░░░░░░░░   62.60 % 
+Other                    56 mins             █████████░░░░░░░░░░░░░░░░   35.00 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Kings-Utility            1 hr 44 mins        ████████████████░░░░░░░░░   64.92 % 
+CraftableMusicDiscs      56 mins             █████████░░░░░░░░░░░░░░░░   35.08 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -297,7 +301,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2024 23:03:21 UTC
+ Last Updated on 29/04/2024 00:04:05 UTC
 <!--END_SECTION:waka-->
 </details>
 
