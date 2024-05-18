@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C203%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C205%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -275,13 +275,17 @@ Sunday                   1929 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Astro                    18 mins             ███████████░░░░░░░░░░░░░░   42.67 % 
+TypeScript               8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+TSConfig                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+keia-website             44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -297,7 +301,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2024 23:03:14 UTC
+ Last Updated on 18/05/2024 00:03:33 UTC
 <!--END_SECTION:waka-->
 </details>
 
