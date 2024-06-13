@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C225%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C226%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -246,7 +246,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 13 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -303,7 +303,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2024 00:07:43 UTC
+ Last Updated on 13/06/2024 01:32:19 UTC
 <!--END_SECTION:waka-->
 </details>
 
