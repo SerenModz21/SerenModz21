@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C243%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C243%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -251,9 +251,9 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1993 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+🌞 Morning                1994 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 🌆 Daytime                2030 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-🌃 Evening                5864 commits        ██████████░░░░░░░░░░░░░░░   41.57 % 
+🌃 Evening                5864 commits        ██████████░░░░░░░░░░░░░░░   41.56 % 
 🌙 Night                  4221 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -265,7 +265,7 @@ Wednesday                2098 commits        ████░░░░░░░�
 Thursday                 2502 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
 Friday                   1610 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 Saturday                 1917 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Sunday                   1995 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Sunday                   1996 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 ```
 
 
@@ -305,7 +305,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 07:06:24 UTC
+ Last Updated on 16/06/2024 08:06:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
