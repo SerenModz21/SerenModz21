@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C249%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C249%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -239,8 +239,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **🐱 My GitHub Data** 
 
 > 📦 297.5 kB Used in GitHub's Storage 
- > 
-> 🏆 475 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -253,7 +251,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 ```text
 🌞 Morning                2032 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 🌆 Daytime                2103 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-🌃 Evening                6066 commits        ██████████░░░░░░░░░░░░░░░   41.73 % 
+🌃 Evening                6067 commits        ██████████░░░░░░░░░░░░░░░   41.73 % 
 🌙 Night                  4335 commits        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -263,7 +261,7 @@ Monday                   2148 commits        ████░░░░░░░�
 Tuesday                  1932 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 Wednesday                2159 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 Thursday                 2571 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Friday                   1694 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Friday                   1695 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 Saturday                 1971 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 Sunday                   2061 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 ```
@@ -305,7 +303,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2024 18:06:54 UTC
+ Last Updated on 21/06/2024 19:06:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
