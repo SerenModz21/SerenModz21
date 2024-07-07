@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C278%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C278%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -239,8 +239,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **🐱 My GitHub Data** 
 
 > 📦 304.8 kB Used in GitHub's Storage 
- > 
-> 🏆 581 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -252,9 +250,9 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ```text
 🌞 Morning                2140 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-🌆 Daytime                2189 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-🌃 Evening                6288 commits        ██████████░░░░░░░░░░░░░░░   41.38 % 
-🌙 Night                  4579 commits        ████████░░░░░░░░░░░░░░░░░   30.13 % 
+🌆 Daytime                2189 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+🌃 Evening                6288 commits        ██████████░░░░░░░░░░░░░░░   41.37 % 
+🌙 Night                  4583 commits        ████████░░░░░░░░░░░░░░░░░   30.15 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -265,7 +263,7 @@ Wednesday                2231 commits        ████░░░░░░░�
 Thursday                 2739 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 Friday                   1766 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 Saturday                 2078 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Sunday                   2163 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Sunday                   2167 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 ```
 
 
@@ -304,7 +302,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2024 01:35:05 UTC
+ Last Updated on 07/07/2024 02:23:19 UTC
 <!--END_SECTION:waka-->
 </details>
 
