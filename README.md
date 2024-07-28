@@ -244,7 +244,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 13 Private Repositories 
  > 
@@ -304,7 +304,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2024 15:09:48 UTC
+ Last Updated on 28/07/2024 16:09:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
