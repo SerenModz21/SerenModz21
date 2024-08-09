@@ -230,7 +230,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -238,7 +238,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 304.9 kB Used in GitHub's Storage 
+> 📦 305.0 kB Used in GitHub's Storage 
  > 
 > 🏆 711 Contributions in the Year 2024
  > 
@@ -275,17 +275,16 @@ Sunday                   2398 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               1 hr 4 mins         ███████████████████░░░░░░   74.83 % 
-JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JSON                     15 mins             ██████████░░░░░░░░░░░░░░░   40.53 % 
+TypeScript               12 mins             ████████░░░░░░░░░░░░░░░░░   33.10 % 
+Bash                     9 mins              ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Kings-Utility            1 hr 5 mins         ███████████████████░░░░░░   75.38 % 
-kings-world.net          21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+Kings-Utility            37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -301,7 +300,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2024 23:09:09 UTC
+ Last Updated on 09/08/2024 00:10:01 UTC
 <!--END_SECTION:waka-->
 </details>
 
