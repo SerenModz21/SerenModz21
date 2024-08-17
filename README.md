@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seren_Modz 21
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Seren_Modz 21
 
 ## Inspired Backend Developer
 
@@ -9,7 +9,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 - ✉️ You can contact me at [seren@kings-world.net](mailto:seren@kings-world.net)
 - 🚀 I'm currently working on [Kings World](https://kings-world.net) projects
 - 🧠 I'm learning more programming languages
-- 🤝 I'm collaborating on [Kyu](https://kyubot.app) with [melike2d](https://github.com/melike2d)
+- 🤝 I'm collaborating on [Keia](https://keia.one) with [viztea](https://github.com/viztea)
 
 <a href="https://www.github.com/SerenModz21" target="_blank" rel="noreferrer">
   <img
@@ -27,102 +27,142 @@ I am an inspired back-end developer and full-time college student from the UK. I
 ### Skills
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-      width="36"
-      height="36"
-      alt="JavaScript"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer" title="TypeScript">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-      width="36"
-      height="36"
-      alt="TypeScript"
-    />
-  </a>
-  <a href="https://www.oracle.com/java" target="_blank" rel="noreferrer" title="Java">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
-      width="36"
-      height="36"
-      alt="Java"
-    />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" title="Kotlin">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
-      width="36"
-      height="36"
-      alt="Kotlin"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML5">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-      width="36"
-      height="36"
-      alt="HTML5"
-    />
-  </a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer" title="React">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-      width="36"
-      height="36"
-      alt="React"
-    />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer" title="Next.js">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
-      width="36"
-      height="36"
-      alt="Next.js"
-    />
-  </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer" title="TailwindCSS">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-      width="36"
-      height="36"
-      alt="TailwindCSS"
-    />
-  </a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" title="Node.js">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-      width="36"
-      height="36"
-      alt="Node.js"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
-      width="36"
-      height="36" 
-      alt="Express"
-    />
-  </a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" title="MongoDB">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-      width="36"
-      height="36"
-      alt="MongoDB"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-      width="36"
-      height="36"
-      alt="PostgreSQL"
-    />
-  </a>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+			width="36"
+			height="36"
+			alt="TypeScript"
+		/>
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+			width="36"
+			height="36"
+			alt="JavaScript"
+		/>
+	</a>
+	<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
+			width="36"
+			height="36"
+			alt="Kotlin"
+		/>
+	</a>
+	<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
+			width="36"
+			height="36"
+			alt="Java"
+		/>
+	</a>
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+			width="36"
+			height="36"
+			alt="Git"
+		/>
+	</a>
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+			width="36"
+			height="36"
+			alt="React"
+		/>
+	</a>
+	<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+			width="36"
+			height="36"
+			alt="NextJs"
+		/>
+	</a>
+	<a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg"
+			width="36"
+			height="36"
+			alt="Svelte"
+		/>
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+			width="36"
+			height="36"
+			alt="HTML5"
+		/>
+	</a>
+	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+			width="36"
+			height="36"
+			alt="CSS3"
+		/>
+	</a>
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+			width="36"
+			height="36"
+			alt="TailwindCSS"
+		/>
+	</a>
+	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+			width="36"
+			height="36"
+			alt="NodeJS"
+		/>
+	</a>
+	<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+			width="36"
+			height="36"
+			alt="Express"
+		/>
+	</a>
+	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+			width="36"
+			height="36"
+			alt="PostgreSQL"
+		/>
+	</a>
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+			width="36"
+			height="36"
+			alt="MongoDB"
+		/>
+	</a>
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+			width="36"
+			height="36"
+			alt="Docker"
+		/>
+	</a>
+	<a href="https://www.linux.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+			width="36"
+			height="36"
+			alt="Linux"
+		/>
+	</a>
 </p>
 
 ### Socials
@@ -236,72 +276,69 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 305.1 kB Used in GitHub's Storage 
- > 
+> 📦 305.1 kB Used in GitHub's Storage
+>
 > 🏆 718 Contributions in the Year 2024
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 7 Public Repositories
+>
+> 🔑 13 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                2231 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-🌆 Daytime                2284 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-🌃 Evening                6637 commits        ██████████░░░░░░░░░░░░░░░   40.93 % 
-🌙 Night                  5064 commits        ████████░░░░░░░░░░░░░░░░░   31.23 % 
+🌞 Morning                2231 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 %
+🌆 Daytime                2284 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 %
+🌃 Evening                6637 commits        ██████████░░░░░░░░░░░░░░░   40.93 %
+🌙 Night                  5064 commits        ████████░░░░░░░░░░░░░░░░░   31.23 %
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   2299 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Tuesday                  2089 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Wednesday                2343 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Thursday                 3014 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Friday                   1906 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Saturday                 2154 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Sunday                   2411 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Monday                   2299 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 %
+Tuesday                  2089 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 %
+Wednesday                2343 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Thursday                 3014 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 %
+Friday                   1906 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Saturday                 2154 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Sunday                   2411 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
-TypeScript               40 mins             ████████░░░░░░░░░░░░░░░░░   31.14 % 
-HCL                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-JavaScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Prisma                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+💬 Programming Languages:
+TypeScript               40 mins             ████████░░░░░░░░░░░░░░░░░   31.14 %
+HCL                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.79 %
+JavaScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 %
+Prisma                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 %
+Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
 
-🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  2 hrs 10 mins       █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-Kings-Utility            1 hr 24 mins        ████████████████░░░░░░░░░   64.26 % 
-runner-images            37 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-.github                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+🐱‍💻 Projects:
+Kings-Utility            1 hr 24 mins        ████████████████░░░░░░░░░   64.26 %
+runner-images            37 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 %
+.github                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               26 repos            ███████████████░░░░░░░░░░   59.09 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               26 repos            ███████████████░░░░░░░░░░   59.09 %
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
-
-
-
 
  Last Updated on 17/08/2024 21:08:44 UTC
 <!--END_SECTION:waka-->
