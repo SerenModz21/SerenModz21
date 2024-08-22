@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -279,6 +279,8 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **🐱 My GitHub Data** 
 
 > 📦 301.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 738 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -290,17 +292,17 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ```text
 🌞 Morning                2239 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-🌆 Daytime                2289 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-🌃 Evening                6680 commits        ██████████░░░░░░░░░░░░░░░   40.97 % 
-🌙 Night                  5098 commits        ████████░░░░░░░░░░░░░░░░░   31.26 % 
+🌆 Daytime                2289 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+🌃 Evening                6680 commits        ██████████░░░░░░░░░░░░░░░   40.95 % 
+🌙 Night                  5103 commits        ████████░░░░░░░░░░░░░░░░░   31.29 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2305 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Monday                   2305 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 Tuesday                  2104 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 Wednesday                2353 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Thursday                 3029 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Thursday                 3034 commits        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
 Friday                   1911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 Saturday                 2169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 Sunday                   2435 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
@@ -343,7 +345,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2024 00:11:05 UTC
+ Last Updated on 22/08/2024 01:35:32 UTC
 <!--END_SECTION:waka-->
 </details>
 
