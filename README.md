@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C365%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -280,7 +280,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 > 📦 301.8 kB Used in GitHub's Storage 
  > 
-> 🏆 737 Contributions in the Year 2024
+> 🏆 738 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -345,7 +345,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2024 22:08:52 UTC
+ Last Updated on 24/08/2024 23:08:57 UTC
 <!--END_SECTION:waka-->
 </details>
 
