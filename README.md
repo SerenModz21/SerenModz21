@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C439%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C439%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -279,6 +279,8 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **🐱 My GitHub Data** 
 
 > 📦 304.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,052 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -290,8 +292,8 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ```text
 🌞 Morning                2096 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-🌆 Daytime                2204 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-🌃 Evening                6121 commits        ██████████░░░░░░░░░░░░░░░   40.77 % 
+🌆 Daytime                2206 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+🌃 Evening                6121 commits        ██████████░░░░░░░░░░░░░░░   40.76 % 
 🌙 Night                  4593 commits        ████████░░░░░░░░░░░░░░░░░   30.59 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -302,8 +304,8 @@ Tuesday                  2059 commits        ███░░░░░░░░�
 Wednesday                2233 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 Thursday                 2749 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
 Friday                   1643 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Saturday                 2003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Sunday                   2178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Saturday                 2005 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Sunday                   2178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 ```
 
 
@@ -343,7 +345,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2024 11:09:42 UTC
+ Last Updated on 05/10/2024 12:10:20 UTC
 <!--END_SECTION:waka-->
 </details>
 
