@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C440%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C440%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -345,7 +345,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2024 22:10:23 UTC
+ Last Updated on 07/10/2024 23:11:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
