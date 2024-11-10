@@ -270,13 +270,15 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C481%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 48.6 kB Used in GitHub's Storage 
+> 📦 47.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,188 Contributions in the Year 2024
  > 
@@ -286,6 +288,50 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2332 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+🌆 Daytime                2464 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+🌃 Evening                7072 commits        ██████████░░░░░░░░░░░░░░░   40.63 % 
+🌙 Night                  5537 commits        ████████░░░░░░░░░░░░░░░░░   31.81 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Tuesday                  2298 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Wednesday                2568 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Thursday                 3253 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Friday                   2075 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Saturday                 2235 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Sunday                   2570 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+TypeScript               6 hrs 30 mins       ███████████████░░░░░░░░░░   60.12 % 
+JSON                     1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+YAML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 50 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Kings-Utility            7 hrs 33 mins       █████████████████░░░░░░░░   69.80 % 
+skynetbot                1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+kings-world.net          46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+sapphire-plugins         35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+user                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -299,7 +345,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 00:10:38 UTC
+ Last Updated on 10/11/2024 01:36:57 UTC
 <!--END_SECTION:waka-->
 </details>
 
