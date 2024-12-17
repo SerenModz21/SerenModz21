@@ -315,14 +315,13 @@ Sunday                   2357 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 13 mins             ████████████████████████░   97.06 % 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-KingsMC-Modpack          13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -338,7 +337,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2024 00:11:04 UTC
+ Last Updated on 17/12/2024 01:36:18 UTC
 <!--END_SECTION:waka-->
 </details>
 
