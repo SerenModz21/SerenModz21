@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C513%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C514%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -280,7 +280,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 > 📦 49.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,293 Contributions in the Year 2024
+> 🏆 1,294 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -315,17 +315,17 @@ Sunday                   2340 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               3 hrs 12 mins       ███████████████████████░░   91.59 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Docker                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Prisma                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               3 hrs 53 mins       ███████████████████████░░   91.47 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TSConfig                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Docker                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Prisma                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Kings-Utility            3 hrs 29 mins       █████████████████████████   100.00 % 
+Kings-Utility            4 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -341,7 +341,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2024 00:10:23 UTC
+ Last Updated on 24/12/2024 01:35:57 UTC
 <!--END_SECTION:waka-->
 </details>
 
