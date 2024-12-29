@@ -274,11 +274,11 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 49.6 kB Used in GitHub's Storage 
+> 📦 49.7 kB Used in GitHub's Storage 
  > 
 > 🏆 1,294 Contributions in the Year 2024
  > 
@@ -292,8 +292,8 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ```text
 🌞 Morning                2199 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-🌆 Daytime                2342 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-🌃 Evening                6622 commits        ██████████░░░░░░░░░░░░░░░   41.06 % 
+🌆 Daytime                2341 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+🌃 Evening                6622 commits        ██████████░░░░░░░░░░░░░░░   41.07 % 
 🌙 Night                  4963 commits        ████████░░░░░░░░░░░░░░░░░   30.78 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -302,7 +302,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 Monday                   2296 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 Tuesday                  2205 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 Wednesday                2457 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Thursday                 2967 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Thursday                 2966 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 Friday                   1788 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 Saturday                 2057 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 Sunday                   2356 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
@@ -341,7 +341,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2024 05:08:30 UTC
+ Last Updated on 29/12/2024 06:09:59 UTC
 <!--END_SECTION:waka-->
 </details>
 
