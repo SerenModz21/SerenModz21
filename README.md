@@ -5,7 +5,7 @@
 I am an inspired back-end developer and full-time college student from the UK. I mainly work on private/closed-source projects. However, I plan to grow and achieve my goal of working on more open-source projects. Some could classify me as a full-stack developer but I choose not to, considering how terrible I am at designing them.
 
 - 🌍 I'm based in England, United Kingdom
-- 🖥️ See my website at [www.serenmodz.rocks](https://www.serenmodz.rocks)
+- 🖥️ See my website at [seren.dev](https://seren.dev)
 - ✉️ You can contact me at [seren@kings-world.net](mailto:seren@kings-world.net)
 - 🚀 I'm currently working on [Kings World](https://kings-world.net) projects
 - 🧠 I'm learning more programming languages
