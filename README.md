@@ -272,7 +272,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C516%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -315,14 +315,16 @@ Sunday                   2602 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               14 mins             ██████████████░░░░░░░░░░░   56.42 % 
-JSON                     11 mins             ███████████░░░░░░░░░░░░░░   43.58 % 
+TypeScript               14 mins             ██████████████░░░░░░░░░░░   55.62 % 
+JSON                     11 mins             ███████████░░░░░░░░░░░░░░   42.95 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kings-world.net          25 mins             █████████████████████████   100.00 % 
+kings-world.net          25 mins             █████████████████████████   98.57 % 
+cloudflare               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -338,7 +340,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2025 01:35:49 UTC
+ Last Updated on 14/01/2025 02:27:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
