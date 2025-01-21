@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C516%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C517%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -278,7 +278,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 50.6 kB Used in GitHub's Storage 
+> 📦 50.5 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2025
  > 
@@ -315,13 +315,17 @@ Sunday                   2658 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+TypeScript               1 hr 3 mins         ████████████████░░░░░░░░░   65.67 % 
+Bash                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cloudflare               0 secs              █████████████████████████   100.00 % 
+cdn-worker               1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -337,7 +341,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2025 00:11:08 UTC
+ Last Updated on 21/01/2025 01:36:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
