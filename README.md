@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C517%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C520%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -280,7 +280,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 > 📦 50.7 kB Used in GitHub's Storage 
  > 
-> 🏆 15 Contributions in the Year 2025
+> 🏆 20 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -288,46 +288,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2255 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-🌆 Daytime                2362 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-🌃 Evening                6752 commits        ██████████░░░░░░░░░░░░░░░   40.86 % 
-🌙 Night                  5154 commits        ████████░░░░░░░░░░░░░░░░░   31.19 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2347 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Tuesday                  2230 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Wednesday                2534 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Thursday                 3070 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Friday                   1827 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Saturday                 2072 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Sunday                   2443 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-TypeScript               1 hr 3 mins         ████████████████░░░░░░░░░   65.67 % 
-Bash                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-
-🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-cdn-worker               1 hr 36 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -341,7 +301,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2025 00:10:45 UTC
+ Last Updated on 28/01/2025 01:37:24 UTC
 <!--END_SECTION:waka-->
 </details>
 
