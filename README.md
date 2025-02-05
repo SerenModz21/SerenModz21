@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C524%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C531%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -278,7 +278,9 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 51.0 kB Used in GitHub's Storage 
+> 📦 50.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -313,18 +315,18 @@ Sunday                   2490 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 2 mins        ████████████████████░░░░░   80.46 % 
-Java Properties          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Java                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Properties               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Java                     6 hrs 56 mins       ████████████████░░░░░░░░░   63.10 % 
+Kotlin                   3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+Java Properties          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Properties               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 1 min         █████████████████████████   100.00 % 
+IntelliJ IDEA            11 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-discord-bridge           3 hrs 53 mins       ███████████████████░░░░░░   77.33 % 
-fabric-mod               1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+fabric-mod               8 hrs 42 mins       ████████████████████░░░░░   79.22 % 
+discord-bridge           2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -340,7 +342,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2025 00:10:01 UTC
+ Last Updated on 05/02/2025 01:35:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
