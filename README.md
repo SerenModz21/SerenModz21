@@ -278,7 +278,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 50.1 kB Used in GitHub's Storage 
+> 📦 50.0 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2025
  > 
@@ -345,7 +345,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2025 11:08:43 UTC
+ Last Updated on 09/02/2025 12:09:33 UTC
 <!--END_SECTION:waka-->
 </details>
 
