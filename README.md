@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C553%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C553%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -278,7 +278,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 50.8 kB Used in GitHub's Storage 
+> 📦 50.7 kB Used in GitHub's Storage 
  > 
 > 🏆 117 Contributions in the Year 2025
  > 
@@ -292,16 +292,16 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ```text
 🌞 Morning                2326 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-🌆 Daytime                2408 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+🌆 Daytime                2409 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 🌃 Evening                6779 commits        ██████████░░░░░░░░░░░░░░░   40.13 % 
 🌙 Night                  5378 commits        ████████░░░░░░░░░░░░░░░░░   31.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2444 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Monday                   2445 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 Tuesday                  2269 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Wednesday                2565 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Wednesday                2565 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
 Thursday                 3156 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
 Friday                   1839 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 Saturday                 2089 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
@@ -344,7 +344,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2025 12:11:07 UTC
+ Last Updated on 24/02/2025 13:15:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
