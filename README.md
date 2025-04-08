@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C633%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C634%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -278,7 +278,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 58.3 kB Used in GitHub's Storage 
+> 📦 58.2 kB Used in GitHub's Storage 
  > 
 > 🏆 255 Contributions in the Year 2025
  > 
@@ -345,7 +345,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/04/2025 20:09:34 UTC
+ Last Updated on 08/04/2025 21:09:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
