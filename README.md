@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C645%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C646%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -279,8 +279,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **🐱 My GitHub Data** 
 
 > 📦 61.5 kB Used in GitHub's Storage 
- > 
-> 🏆 321 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -292,17 +290,17 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ```text
 🌞 Morning                2301 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-🌆 Daytime                2412 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-🌃 Evening                6799 commits        ██████████░░░░░░░░░░░░░░░   40.77 % 
-🌙 Night                  5164 commits        ████████░░░░░░░░░░░░░░░░░   30.97 % 
+🌆 Daytime                2415 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+🌃 Evening                6799 commits        ██████████░░░░░░░░░░░░░░░   40.76 % 
+🌙 Night                  5164 commits        ████████░░░░░░░░░░░░░░░░░   30.96 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2436 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 Tuesday                  2201 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Wednesday                2564 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Thursday                 3134 commits        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Wednesday                2564 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Thursday                 3137 commits        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
 Friday                   1844 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 Saturday                 2090 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
 Sunday                   2407 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
@@ -345,7 +343,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2025 15:09:36 UTC
+ Last Updated on 17/04/2025 16:11:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
