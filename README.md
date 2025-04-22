@@ -280,6 +280,8 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 > 📦 60.6 kB Used in GitHub's Storage 
  > 
+> 🏆 336 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -343,7 +345,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2025 20:10:51 UTC
+ Last Updated on 22/04/2025 21:09:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
