@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C710%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C711%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -279,8 +279,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **🐱 My GitHub Data** 
 
 > 📦 58.9 kB Used in GitHub's Storage 
- > 
-> 🏆 424 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -294,18 +292,18 @@ I am an inspired back-end developer and full-time college student from the UK. I
 🌞 Morning                2510 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 🌆 Daytime                2520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 🌃 Evening                7299 commits        ██████████░░░░░░░░░░░░░░░   40.34 % 
-🌙 Night                  5763 commits        ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌙 Night                  5765 commits        ████████░░░░░░░░░░░░░░░░░   31.86 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2554 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 Tuesday                  2349 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Wednesday                2778 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Thursday                 3480 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Wednesday                2780 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Thursday                 3480 commits        █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 Friday                   2045 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 Saturday                 2229 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Sunday                   2657 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Sunday                   2657 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
 ```
 
 
@@ -345,7 +343,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 00:10:10 UTC
+ Last Updated on 07/05/2025 01:36:54 UTC
 <!--END_SECTION:waka-->
 </details>
 
