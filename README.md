@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C724%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C724%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -279,6 +279,8 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **🐱 My GitHub Data** 
 
 > 📦 59.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 513 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -289,9 +291,9 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2036 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-🌆 Daytime                2190 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-🌃 Evening                6072 commits        ██████████░░░░░░░░░░░░░░░   41.47 % 
+🌞 Morning                2036 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+🌆 Daytime                2190 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+🌃 Evening                6075 commits        ██████████░░░░░░░░░░░░░░░   41.48 % 
 🌙 Night                  4343 commits        ███████░░░░░░░░░░░░░░░░░░   29.66 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -299,11 +301,11 @@ I am an inspired back-end developer and full-time college student from the UK. I
 ```text
 Monday                   2141 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 Tuesday                  1980 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Wednesday                2405 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Thursday                 2632 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Wednesday                2405 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Thursday                 2635 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
 Friday                   1593 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 Saturday                 1933 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Sunday                   1957 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Sunday                   1957 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 ```
 
 
@@ -342,7 +344,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 21:08:52 UTC
+ Last Updated on 22/05/2025 22:10:30 UTC
 <!--END_SECTION:waka-->
 </details>
 
