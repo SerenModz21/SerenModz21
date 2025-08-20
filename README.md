@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C737%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C737%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -279,8 +279,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **🐱 My GitHub Data** 
 
 > 📦 59.4 kB Used in GitHub's Storage 
- > 
-> 🏆 633 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -292,7 +290,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ```text
 🌞 Morning                2606 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-🌆 Daytime                2643 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+🌆 Daytime                2644 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 🌃 Evening                7655 commits        ██████████░░░░░░░░░░░░░░░   40.68 % 
 🌙 Night                  5912 commits        ████████░░░░░░░░░░░░░░░░░   31.42 % 
 ```
@@ -301,7 +299,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 ```text
 Monday                   2737 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
 Tuesday                  2467 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Wednesday                3063 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Wednesday                3064 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 Thursday                 3462 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
 Friday                   2116 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 Saturday                 2322 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
@@ -337,7 +335,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 13:19:43 UTC
+ Last Updated on 20/08/2025 14:09:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
