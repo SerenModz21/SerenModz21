@@ -288,6 +288,42 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2280 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+🌆 Daytime                2282 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+🌃 Evening                6489 commits        ██████████░░░░░░░░░░░░░░░   40.78 % 
+🌙 Night                  4860 commits        ████████░░░░░░░░░░░░░░░░░   30.54 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2287 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Tuesday                  2097 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Wednesday                2521 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Thursday                 2889 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Friday                   1787 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Saturday                 2063 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Sunday                   2267 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -301,7 +337,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 00:08:11 UTC
+ Last Updated on 22/09/2025 01:35:42 UTC
 <!--END_SECTION:waka-->
 </details>
 
