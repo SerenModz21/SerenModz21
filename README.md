@@ -270,8 +270,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C757%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
@@ -327,17 +325,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               34 repos            ████████████████░░░░░░░░░   65.38 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               33 repos            ████████████████░░░░░░░░░   64.71 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 27/09/2025 22:08:00 UTC
+ Last Updated on 27/09/2025 23:04:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
