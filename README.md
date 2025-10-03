@@ -270,6 +270,8 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C757%20hrs%2033%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
@@ -286,6 +288,42 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2253 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+🌆 Daytime                2259 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+🌃 Evening                6409 commits        ██████████░░░░░░░░░░░░░░░   40.74 % 
+🌙 Night                  4810 commits        ████████░░░░░░░░░░░░░░░░░   30.58 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2259 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Tuesday                  2067 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Wednesday                2502 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Thursday                 2865 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Friday                   1759 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Saturday                 2041 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Sunday                   2238 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -299,7 +337,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 23:05:22 UTC
+ Last Updated on 03/10/2025 00:04:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
