@@ -270,7 +270,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
@@ -278,9 +278,9 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 62.5 kB Used in GitHub's Storage 
+> 📦 62.4 kB Used in GitHub's Storage 
  > 
-> 🏆 685 Contributions in the Year 2025
+> 🏆 687 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -315,16 +315,18 @@ Sunday                   2259 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     41 mins             ███████████████░░░░░░░░░░   60.93 % 
-TSConfig                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-TypeScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JSON                     42 mins             ██████████████░░░░░░░░░░░   54.38 % 
+TSConfig                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+TypeScript               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kings-world.net          1 hr 8 mins         █████████████████████████   100.00 % 
+kings-world.net          1 hr 8 mins         ██████████████████████░░░   87.85 % 
+create-release-notes     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -340,7 +342,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2025 00:04:33 UTC
+ Last Updated on 29/10/2025 01:32:50 UTC
 <!--END_SECTION:waka-->
 </details>
 
