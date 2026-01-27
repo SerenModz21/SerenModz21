@@ -270,37 +270,37 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C887%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C888%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.52%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 64.8 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2026
+> 🏆 40 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                2292 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-🌆 Daytime                2310 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+🌆 Daytime                2311 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 🌃 Evening                6311 commits        ██████████░░░░░░░░░░░░░░░   39.93 % 
-🌙 Night                  4893 commits        ████████░░░░░░░░░░░░░░░░░   30.96 % 
+🌙 Night                  4893 commits        ████████░░░░░░░░░░░░░░░░░   30.95 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2302 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Tuesday                  2070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Tuesday                  2071 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 Wednesday                2526 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 Thursday                 2860 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 Friday                   1763 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
@@ -331,17 +331,17 @@ Kings-Utility            5 hrs 15 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               33 repos            ███████████████░░░░░░░░░░   60.00 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+TypeScript               33 repos            ███████████████░░░░░░░░░░   58.93 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Astro                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 27/01/2026 15:10:01 UTC
+ Last Updated on 27/01/2026 16:07:16 UTC
 <!--END_SECTION:waka-->
 </details>
 
