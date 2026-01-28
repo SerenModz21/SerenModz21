@@ -270,9 +270,9 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C887%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C893%20hrs%2056%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -315,17 +315,18 @@ Sunday                   2285 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               4 hrs 59 mins       ████████████████████████░   94.94 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Astro                    5 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.94 % 
+TypeScript               5 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.55 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Kings-Utility            5 hrs 15 mins       █████████████████████████   100.00 % 
+dream-star               6 hrs 4 mins        █████████████░░░░░░░░░░░░   53.56 % 
+Kings-Utility            5 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.44 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -341,7 +342,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2026 00:06:44 UTC
+ Last Updated on 28/01/2026 01:33:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
