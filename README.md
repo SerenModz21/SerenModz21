@@ -272,7 +272,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C893%20hrs%2056%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -288,47 +288,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2336 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-🌆 Daytime                2335 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-🌃 Evening                6427 commits        ██████████░░░░░░░░░░░░░░░   39.76 % 
-🌙 Night                  5067 commits        ████████░░░░░░░░░░░░░░░░░   31.35 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2356 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  2136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Wednesday                2609 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Thursday                 2912 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Friday                   1801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Saturday                 2016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Sunday                   2335 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Astro                    5 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.94 % 
-TypeScript               5 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.55 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 19 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-dream-star               6 hrs 4 mins        █████████████░░░░░░░░░░░░   53.56 % 
-Kings-Utility            5 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.44 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -342,7 +301,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2026 00:07:22 UTC
+ Last Updated on 29/01/2026 01:33:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
