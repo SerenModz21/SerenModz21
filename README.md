@@ -2,7 +2,7 @@
 
 ## Inspired Backend Developer
 
-I am an inspired back-end developer and full-time college student from the UK. I mainly work on private/closed-source projects. However, I plan to grow and achieve my goal of working on more open-source projects. Some could classify me as a full-stack developer but I choose not to, considering how terrible I am at designing them.
+I am an inspired back-end developer and full-time college student from the UK. I mainly work on private/closed-source projects. However, I plan to grow and achieve my goal of working on more open-source projects. Some could classify me as a full-stack developer, but I choose not to, considering I am not good at designing them.
 
 - 🌍 I'm based in England, United Kingdom
 - 🖥️ See my website at [seren.dev](https://seren.dev)
@@ -17,9 +17,9 @@ I am an inspired back-end developer and full-time college student from the UK. I
     alt="GitHub Followers"
   />
 </a>
-<a href="https://www.twitter.com/SerenModz21" target="_blank" rel="noreferrer">
+<a href="https://x.com/SerenModz21" target="_blank" rel="noreferrer">
   <img
-    src="https://img.shields.io/twitter/follow/SerenModz21?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+    src="https://img.shields.io/twitter/follow/SerenModz21?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"
     alt="Twitter Followers"
   />
 </a>
@@ -30,137 +30,189 @@ I am an inspired back-end developer and full-time college student from the UK. I
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+			alt="TypeScript"
+			title="TypeScript"
 			width="36"
 			height="36"
-			alt="TypeScript"
 		/>
 	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+	<a
+		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+		target="_blank"
+		rel="noreferrer"
+	>
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+			alt="JavaScript"
+			title="JavaScript"
 			width="36"
 			height="36"
-			alt="JavaScript"
 		/>
 	</a>
 	<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
+			alt="Kotlin"
+			title="Kotlin"
 			width="36"
 			height="36"
-			alt="Kotlin"
 		/>
 	</a>
 	<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
+			alt="Java"
+			title="Java"
 			width="36"
 			height="36"
-			alt="Java"
 		/>
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-			width="36"
-			height="36"
 			alt="Git"
-		/>
-	</a>
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+			title="Git"
 			width="36"
 			height="36"
-			alt="React"
 		/>
 	</a>
-	<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
+			alt="VS Code"
+			title="VS Code"
 			width="36"
 			height="36"
-			alt="NextJs"
 		/>
 	</a>
-	<a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg"
-			width="36"
-			height="36"
-			alt="Svelte"
-		/>
-	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+	<a
+		href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+		target="_blank"
+		rel="noreferrer"
+	>
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+			alt="HTML5"
+			title="HTML5"
 			width="36"
 			height="36"
-			alt="HTML5"
 		/>
 	</a>
 	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+			alt="CSS3"
+			title="CSS3"
 			width="36"
 			height="36"
-			alt="CSS3"
+		/>
+	</a>
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+			alt="React"
+			title="React"
+			width="36"
+			height="36"
+		/>
+	</a>
+	<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+			alt="NextJs"
+			title="NextJs"
+			width="36"
+			height="36"
 		/>
 	</a>
 	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+			alt="TailwindCSS"
+			title="TailwindCSS"
 			width="36"
 			height="36"
-			alt="TailwindCSS"
+		/>
+	</a>
+	<a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg"
+			alt="Svelte"
+			title="Svelte"
+			width="36"
+			height="36"
+		/>
+	</a>
+	<a href="https://astro.build/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored.svg"
+			alt="Astro"
+			title="Astro"
+			width="36"
+			height="36"
+		/>
+	</a>
+	<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored.svg"
+			alt="Shadcn/ui"
+			title="Shadcn/ui"
+			width="36"
+			height="36"
 		/>
 	</a>
 	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+			alt="NodeJS"
+			title="NodeJS"
 			width="36"
 			height="36"
-			alt="NodeJS"
 		/>
 	</a>
 	<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+			alt="Express"
+			title="Express"
 			width="36"
 			height="36"
-			alt="Express"
 		/>
 	</a>
 	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+			alt="PostgreSQL"
+			title="PostgreSQL"
 			width="36"
 			height="36"
-			alt="PostgreSQL"
 		/>
 	</a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-			width="36"
-			height="36"
 			alt="MongoDB"
-		/>
-	</a>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+			title="MongoDB"
 			width="36"
 			height="36"
-			alt="Docker"
 		/>
 	</a>
 	<a href="https://www.linux.org" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+			alt="Linux"
+			title="Linux"
 			width="36"
 			height="36"
-			alt="Linux"
+		/>
+	</a>
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+			alt="Docker"
+			title="Docker"
+			width="36"
+			height="36"
 		/>
 	</a>
 </p>
@@ -184,7 +236,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
       alt="GitHub"
     />
   </a>
-  <a href="https://www.twitter.com/SerenModz21" target="_blank" rel="noreferrer" title="Twitter">
+  <a href="https://x.com/SerenModz21" target="_blank" rel="noreferrer" title="Twitter">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
       width="32"
@@ -200,7 +252,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
       alt="YouTube"
     />
   </a>
-  <a href="https://www.twitch.tv/seren_modz21" target="_blank" rel="noreferrer" title="Twitch">
+  <a href="https://www.twitch.tv/serenmodz21" target="_blank" rel="noreferrer" title="Twitch">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg"
       width="32"
       height="32"
