@@ -2,7 +2,7 @@
 
 ## Inspired Backend Developer
 
-I am an inspired back-end developer and full-time college student from the UK. I mainly work on private/closed-source projects. However, I plan to grow and achieve my goal of working on more open-source projects. Some could classify me as a full-stack developer, but I choose not to, considering I am not good at designing them.
+I am an inspired back-end developer and full-time college student from the UK. I mainly work on private/closed-source projects. However, I plan to grow and achieve my goal of working on more open-source projects. Some could classify me as a full-stack developer, but I choose not to because I'm not very good at designing them.
 
 - 🌍 I'm based in England, United Kingdom
 - 🖥️ See my website at [seren.dev](https://seren.dev)
