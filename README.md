@@ -343,21 +343,21 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2611 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-🌆 Daytime                2620 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-🌃 Evening                7186 commits        ██████████░░░░░░░░░░░░░░░   39.91 % 
-🌙 Night                  5587 commits        ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌞 Morning                2611 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+🌆 Daytime                2620 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+🌃 Evening                7173 commits        ██████████░░░░░░░░░░░░░░░   39.87 % 
+🌙 Night                  5587 commits        ████████░░░░░░░░░░░░░░░░░   31.05 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2747 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Tuesday                  2345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Wednesday                2965 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Thursday                 3213 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Friday                   1944 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Saturday                 2271 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Sunday                   2519 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Monday                   2747 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Tuesday                  2345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Wednesday                2952 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Thursday                 3213 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Friday                   1944 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Saturday                 2271 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Sunday                   2519 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 ```
 
 
@@ -379,17 +379,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               30 repos            ██████████████░░░░░░░░░░░   54.55 % 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+TypeScript               30 repos            ██████████████░░░░░░░░░░░   55.56 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 09/04/2026 22:16:11 UTC
+ Last Updated on 09/04/2026 23:17:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
