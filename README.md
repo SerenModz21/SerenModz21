@@ -322,7 +322,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C914%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C915%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
 
@@ -367,13 +367,15 @@ Sunday                   2494 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     23 mins             ███████████████████████░░   92.83 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sapphire-plugins         25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -389,7 +391,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2026 23:13:35 UTC
+ Last Updated on 11/04/2026 00:12:23 UTC
 <!--END_SECTION:waka-->
 </details>
 
