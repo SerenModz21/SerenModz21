@@ -336,7 +336,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
@@ -394,7 +394,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2026 20:22:54 UTC
+ Last Updated on 13/04/2026 21:20:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
