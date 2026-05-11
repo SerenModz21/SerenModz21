@@ -325,17 +325,17 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C942%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C945%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.77%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 72.5 kB Used in GitHub's Storage 
  > 
-> 🏆 315 Contributions in the Year 2026
+> 🏆 317 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -343,49 +343,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2517 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-🌆 Daytime                2625 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-🌃 Evening                6999 commits        ██████████░░░░░░░░░░░░░░░   40.00 % 
-🌙 Night                  5358 commits        ████████░░░░░░░░░░░░░░░░░   30.62 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2608 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Tuesday                  2278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Wednesday                2836 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Thursday                 3108 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Friday                   1984 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Saturday                 2218 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Sunday                   2467 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-TypeScript               5 hrs 12 mins       ██████████████████████░░░   89.90 % 
-Docker                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-jsonc                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-shell script             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-
-🔥 Editors: 
-Zed                      4 hrs 11 mins       ██████████████████░░░░░░░   72.53 % 
-VS Code                  1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-
-🐱‍💻 Projects: 
-Kings-Utility            3 hrs 43 mins       ████████████████░░░░░░░░░   64.25 % 
-discord-status-webhook   1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   33.76 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -399,7 +356,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2026 23:19:21 UTC
+ Last Updated on 11/05/2026 00:19:52 UTC
 <!--END_SECTION:waka-->
 </details>
 
