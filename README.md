@@ -160,4 +160,4 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 ---
 
-Credits to [profileme.dev](https://www.profileme.dev) for helping improve the design of my GitHub readme!
+Credits to [profileme.dev](https://www.profileme.dev) and [skillicons.dev](https://skillicons.dev/) for helping improve the design of my GitHub readme!
