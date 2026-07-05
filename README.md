@@ -9,25 +9,19 @@ I am an inspired back-end developer and full-time college student from the UK. I
 - ✉️ You can contact me at [seren@kings-world.net](mailto:seren@kings-world.net)
 - 🚀 I'm currently working on [Kings World](https://kings-world.net) projects
 - 🧠 I'm learning more programming languages
-- 🤝 I'm collaborating on [Keia](https://keia.one) with [viztea](https://github.com/viztea)
-
-<a href="https://www.github.com/SerenModz21" target="_blank" rel="noreferrer">
-  <img
-    src="https://img.shields.io/github/followers/SerenModz21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
-    alt="GitHub Followers"
-  />
-</a>
-<a href="https://x.com/SerenModz21" target="_blank" rel="noreferrer">
-  <img
-    src="https://img.shields.io/twitter/follow/SerenModz21?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"
-    alt="Twitter Followers"
-  />
-</a>
 
 ### Skills
 
+<img
+	src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,astro,svelte,tailwind,html,css,prometheus,grafana,sentry,linux,debian,docker,git,github,githubactions,postgres,redis,prisma,npm,yarn,bun,cloudflare,workers,discord,bots,discordjs"
+	alt="TypeScript, JavaScript, Node.js, React, Next.js, Astro, Svelte, TailwindCSS, HTML, CSS, Prometheus, Grafana, Sentry, Linux, Debian, Docker, Git, GitHub, GitHub Actions, PostgreSQL, Redis, Prisma, NPM, Yarn, Bun, Cloudflare, Cloudflare Workers, Discord, Bots, and Discord.js"
+	title="TypeScript, JavaScript, Node.js, React, Next.js, Astro, Svelte, TailwindCSS, HTML, CSS, Prometheus, Grafana, Sentry, Linux, Debian, Docker, Git, GitHub, GitHub Actions, PostgreSQL, Redis, Prisma, NPM, Yarn, Bun, Cloudflare, Cloudflare Workers, Discord, Bots, and Discord.js"
+/>
+
+<!--
 | <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/typescript.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/git.svg" alt="Git" title="Git" width="36" height="36"/></a> | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36"/></a> | <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="NextJs" title="NextJs" width="36" height="36"/></a> | <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36"/></a> | <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" alt="Svelte" title="Svelte" width="36" height="36"/></a> | <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored.svg" alt="Astro" title="Astro" width="36" height="36"/></a> | <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36"/></a> | <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/node-js.svg" alt="NodeJS" title="NodeJS" width="36" height="36"/></a> | <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36"/></a> | <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/linux.svg" alt="Linux" title="Linux" width="36" height="36"/></a> | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/docker.svg" alt="Docker" title="Docker" width="36" height="36"/></a> |
 |-|-|-|-|-|-|-|-|-|-|-|-|
+-->
 
 <!--
 <p style="display: hidden">
@@ -212,55 +206,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
 			height="36"
 		/>
 	</a>
-</p>
--->
-
-### Socials
-
-| <a href="https://discord.com/users/287278949548032000" target="_blank" rel="noreferrer" title="Discord"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/></a> | <a href="https://www.github.com/SerenModz21" target="_blank" rel="noreferrer" title="GitHub"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a> | <a href="https://x.com/SerenModz21" target="_blank" rel="noreferrer" title="Twitter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter"/></a> | <a href="https://www.youtube.com/@SerenModz21" target="_blank" rel="noreferrer" title="YouTube"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube"/></a> | <a href="https://www.twitch.tv/serenmodz21" target="_blank" rel="noreferrer" title="Twitch"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch"/></a> |
-|-|-|-|-|-|
-
-<!--
-<p>
-  <a href="https://discord.com/users/287278949548032000" target="_blank" rel="noreferrer" title="Discord">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-      width="32"
-      height="32"
-      alt="Discord"
-    />
-  </a>
-  <a href="https://www.github.com/SerenModz21" target="_blank" rel="noreferrer" title="GitHub">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-      width="32"
-      height="32"
-      alt="GitHub"
-    />
-  </a>
-  <a href="https://x.com/SerenModz21" target="_blank" rel="noreferrer" title="Twitter">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-      width="32"
-      height="32"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.youtube.com/@SerenModz21" target="_blank" rel="noreferrer" title="YouTube">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"
-      width="32"
-      height="32"
-      alt="YouTube"
-    />
-  </a>
-  <a href="https://www.twitch.tv/serenmodz21" target="_blank" rel="noreferrer" title="Twitch">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg"
-      width="32"
-      height="32"
-      alt="Twitch"
-    />
-  </a>
 </p>
 -->
 
