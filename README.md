@@ -126,19 +126,19 @@ Sunday                   2509 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               2 hrs 24 mins       █████████████░░░░░░░░░░░░   51.10 % 
-JSON                     1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-Docker                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-TOML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+TypeScript               2 hrs 24 mins       ███████████████░░░░░░░░░░   58.47 % 
+JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Docker                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+TOML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Kings-Utility            2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.61 % 
-cdn-worker               1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   38.94 % 
-GhostyCord               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+cdn-worker               1 hr 50 mins        ███████████░░░░░░░░░░░░░░   44.56 % 
+Kings-Utility            1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   36.63 % 
+GhostyCord               46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -160,7 +160,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 23:57:16 UTC
+ Last Updated on 28/07/2026 01:19:48 UTC
 <!--END_SECTION:waka-->
 </details>
 
