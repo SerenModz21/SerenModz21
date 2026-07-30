@@ -102,10 +102,10 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2562 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-🌆 Daytime                2666 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-🌃 Evening                7176 commits        ██████████░░░░░░░░░░░░░░░   40.04 % 
-🌙 Night                  5517 commits        ████████░░░░░░░░░░░░░░░░░   30.79 % 
+🌞 Morning                2563 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+🌆 Daytime                2669 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+🌃 Evening                7176 commits        ██████████░░░░░░░░░░░░░░░   40.03 % 
+🌙 Night                  5517 commits        ████████░░░░░░░░░░░░░░░░░   30.78 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -113,10 +113,10 @@ I am an inspired back-end developer and full-time college student from the UK. I
 Monday                   2685 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 Tuesday                  2291 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 Wednesday                2913 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 3177 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Friday                   2020 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Thursday                 3178 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Friday                   2022 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 Saturday                 2337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Sunday                   2498 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Sunday                   2499 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 ```
 
 
@@ -126,19 +126,19 @@ Sunday                   2498 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               2 hrs 24 mins       ███████████████░░░░░░░░░░   58.47 % 
-JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Docker                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-TOML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+TypeScript               2 hrs 24 mins       █████████████████░░░░░░░░   67.06 % 
+JSON                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Docker                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+TSConfig                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cdn-worker               1 hr 50 mins        ███████████░░░░░░░░░░░░░░   44.56 % 
-Kings-Utility            1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   36.63 % 
-GhostyCord               46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+cdn-worker               1 hr 50 mins        █████████████░░░░░░░░░░░░   51.10 % 
+Kings-Utility            59 mins             ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+GhostyCord               46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -160,7 +160,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 23:55:53 UTC
+ Last Updated on 30/07/2026 01:15:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
