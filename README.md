@@ -126,18 +126,16 @@ Sunday                   2517 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               1 hr 45 mins        ████████████████████░░░░░   79.64 % 
-TOML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Docker                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TypeScript               1 hr 4 mins         ████████████████████████░   94.51 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cdn-worker               1 hr 50 mins        █████████████████████░░░░   83.17 % 
-Kings-Utility            22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+cdn-worker               1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -159,7 +157,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 23:50:53 UTC
+ Last Updated on 02/08/2026 01:26:56 UTC
 <!--END_SECTION:waka-->
 </details>
 
