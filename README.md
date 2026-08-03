@@ -85,7 +85,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.84%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -102,21 +102,21 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2687 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-🌆 Daytime                2820 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-🌃 Evening                7587 commits        ██████████░░░░░░░░░░░░░░░   40.08 % 
-🌙 Night                  5835 commits        ████████░░░░░░░░░░░░░░░░░   30.83 % 
+🌞 Morning                2568 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+🌆 Daytime                2707 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+🌃 Evening                7238 commits        ██████████░░░░░░░░░░░░░░░   40.09 % 
+🌙 Night                  5542 commits        ████████░░░░░░░░░░░░░░░░░   30.70 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2846 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Tuesday                  2370 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Wednesday                3121 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Thursday                 3349 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Friday                   2152 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Saturday                 2446 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Sunday                   2645 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Monday                   2716 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Tuesday                  2308 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Wednesday                2937 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Thursday                 3198 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Friday                   2030 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Saturday                 2348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Sunday                   2518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 
 
@@ -126,16 +126,13 @@ Sunday                   2645 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               1 hr 4 mins         ████████████████████████░   94.51 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cdn-worker               1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -157,7 +154,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 23:51:27 UTC
+ Last Updated on 03/08/2026 01:28:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
