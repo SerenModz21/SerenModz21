@@ -79,10 +79,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C904%20hrs%206%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.88%20million%20lines%20of%20code-blue?style=flat)
@@ -99,48 +95,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2636 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-🌆 Daytime                2783 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-🌃 Evening                7378 commits        ██████████░░░░░░░░░░░░░░░   39.97 % 
-🌙 Night                  5662 commits        ████████░░░░░░░░░░░░░░░░░   30.67 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2778 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Tuesday                  2370 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Wednesday                3008 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Thursday                 3261 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Friday                   2092 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Saturday                 2373 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Sunday                   2577 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -154,7 +108,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 22:48:45 UTC
+ Last Updated on 07/08/2026 01:45:05 UTC
 <!--END_SECTION:waka-->
 </details>
 
