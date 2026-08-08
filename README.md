@@ -79,19 +79,19 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C904%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C904%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 91.0 kB Used in GitHub's Storage 
  > 
-> 🏆 757 Contributions in the Year 2026
+> 🏆 766 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,21 +102,21 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2443 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-🌆 Daytime                2626 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-🌃 Evening                6814 commits        ██████████░░░░░░░░░░░░░░░   40.14 % 
-🌙 Night                  5091 commits        ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+🌞 Morning                2463 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+🌆 Daytime                2658 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+🌃 Evening                6837 commits        ██████████░░░░░░░░░░░░░░░   40.08 % 
+🌙 Night                  5102 commits        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2579 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Tuesday                  2236 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Wednesday                2744 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Thursday                 2968 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Friday                   1911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Saturday                 2221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Sunday                   2315 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Monday                   2599 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Tuesday                  2236 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Wednesday                2745 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Thursday                 3008 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Friday                   1920 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Saturday                 2231 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Sunday                   2321 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 ```
 
 
@@ -126,13 +126,18 @@ Sunday                   2315 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     14 mins             ██████████░░░░░░░░░░░░░░░   40.86 % 
+Markdown                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Bash                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             █████████████████████░░░░   85.63 % 
+Zed                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Kings-Utility            36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -154,7 +159,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 23:26:56 UTC
+ Last Updated on 08/08/2026 00:43:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
