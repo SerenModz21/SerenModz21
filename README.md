@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C904%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C904%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
 
@@ -126,18 +126,19 @@ Sunday                   2520 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     14 mins             ██████████░░░░░░░░░░░░░░░   40.86 % 
-Markdown                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Bash                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+YAML                     14 mins             ████████░░░░░░░░░░░░░░░░░   30.38 % 
+JSON                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Bash                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████░░░░   85.63 % 
-Zed                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+VS Code                  43 mins             ██████████████████████░░░   89.31 % 
+Zed                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 
 🐱‍💻 Projects: 
-Kings-Utility            36 mins             █████████████████████████   100.00 % 
+Kings-Utility            36 mins             ███████████████████░░░░░░   74.34 % 
+sapphire-plugins         12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -159,7 +160,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 23:21:07 UTC
+ Last Updated on 09/08/2026 00:46:04 UTC
 <!--END_SECTION:waka-->
 </details>
 
