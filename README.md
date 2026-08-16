@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C904%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C905%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
 
@@ -99,51 +99,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2471 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-🌆 Daytime                2595 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-🌃 Evening                6857 commits        ██████████░░░░░░░░░░░░░░░   39.95 % 
-🌙 Night                  5240 commits        ████████░░░░░░░░░░░░░░░░░   30.53 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2555 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Tuesday                  2247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Wednesday                2746 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Thursday                 3044 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Friday                   1942 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Saturday                 2243 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Sunday                   2386 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-JSON                     9 mins              ███████████████████░░░░░░   76.64 % 
-JavaScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-
-🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-sapphire-plugins         12 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -157,7 +112,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 23:14:35 UTC
+ Last Updated on 16/08/2026 00:33:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
