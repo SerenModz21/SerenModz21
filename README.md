@@ -91,7 +91,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 > 📦 90.2 kB Used in GitHub's Storage 
  > 
-> 🏆 803 Contributions in the Year 2026
+> 🏆 806 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,52 +99,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2504 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-🌆 Daytime                2723 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-🌃 Evening                6964 commits        ██████████░░░░░░░░░░░░░░░   39.75 % 
-🌙 Night                  5328 commits        ████████░░░░░░░░░░░░░░░░░   30.41 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2576 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Tuesday                  2242 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Wednesday                2808 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Thursday                 3146 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Friday                   2009 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Saturday                 2278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Sunday                   2460 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-TypeScript               10 mins             ███████████████░░░░░░░░░░   60.71 % 
-JSON                     6 mins              █████████░░░░░░░░░░░░░░░░   37.34 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Kings-Utility            16 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -158,7 +112,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 23:13:20 UTC
+ Last Updated on 23/08/2026 00:34:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
