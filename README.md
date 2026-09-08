@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C928%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C929%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
 
@@ -126,21 +126,21 @@ Sunday                   2555 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               8 hrs 33 mins       ███████████████████░░░░░░   74.09 % 
-JSON                     2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+TypeScript               6 hrs 51 mins       █████████████████████░░░░   83.91 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Prisma                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 31 mins      █████████████████████████   99.78 % 
-Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+VS Code                  8 hrs 8 mins        █████████████████████████   99.69 % 
+Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-Kings-Utility            9 hrs 51 mins       █████████████████████░░░░   85.40 % 
-check-last-played        50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-shadcn-transcripts       42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-sapphire-plugins         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Kings-Utility            5 hrs 56 mins       ██████████████████░░░░░░░   72.63 % 
+check-last-played        50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+shadcn-transcripts       42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+sapphire-plugins         41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -162,7 +162,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 23:11:53 UTC
+ Last Updated on 08/09/2026 01:42:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
