@@ -99,6 +99,57 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2520 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+🌆 Daytime                2749 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+🌃 Evening                7113 commits        ██████████░░░░░░░░░░░░░░░   39.75 % 
+🌙 Night                  5511 commits        ████████░░░░░░░░░░░░░░░░░   30.80 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2578 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Tuesday                  2299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Wednesday                2854 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Thursday                 3257 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Friday                   2035 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Saturday                 2314 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Sunday                   2556 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+TypeScript               2 hrs 1 min         ███████████████░░░░░░░░░░   60.33 % 
+YAML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Prisma                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 18 mins       █████████████████████████   98.45 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+
+🐱‍💻 Projects: 
+Kings-Utility            1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   33.04 % 
+check-last-played        50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+shadcn-transcripts       42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+sapphire-plugins         41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,7 +163,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 05:32:43 UTC
+ Last Updated on 09/09/2026 10:20:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
