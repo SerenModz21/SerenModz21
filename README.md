@@ -79,19 +79,19 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C929%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C933%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.73%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 91.5 kB Used in GitHub's Storage 
  > 
-> 🏆 882 Contributions in the Year 2026
+> 🏆 883 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,21 +102,21 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2522 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-🌆 Daytime                2759 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-🌃 Evening                7111 commits        ██████████░░░░░░░░░░░░░░░   39.72 % 
-🌙 Night                  5511 commits        ████████░░░░░░░░░░░░░░░░░   30.78 % 
+🌞 Morning                2644 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+🌆 Daytime                2899 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+🌃 Evening                7467 commits        ██████████░░░░░░░░░░░░░░░   39.69 % 
+🌙 Night                  5805 commits        ████████░░░░░░░░░░░░░░░░░   30.85 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2580 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Tuesday                  2299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Wednesday                2856 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Thursday                 3258 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Friday                   2039 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Saturday                 2313 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Sunday                   2558 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Monday                   2716 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Tuesday                  2373 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Wednesday                3041 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Thursday                 3411 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Friday                   2177 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Saturday                 2411 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Sunday                   2686 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 ```
 
 
@@ -126,22 +126,22 @@ Sunday                   2558 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               2 hrs 1 min         ███████████████░░░░░░░░░░   60.33 % 
-YAML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Prisma                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+TypeScript               6 hrs 12 mins       █████████████████████░░░░   84.58 % 
+YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Prisma                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 18 mins       █████████████████████████   98.45 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+VS Code                  7 hrs 17 mins       █████████████████████████   99.29 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🐱‍💻 Projects: 
-Kings-Utility            1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   33.04 % 
-check-last-played        50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-shadcn-transcripts       42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-sapphire-plugins         41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Kings-Utility            5 hrs 6 mins        █████████████████░░░░░░░░   69.43 % 
+check-last-played        50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+shadcn-transcripts       42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+sapphire-plugins         41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -163,7 +163,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 23:42:57 UTC
+ Last Updated on 10/09/2026 01:44:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
