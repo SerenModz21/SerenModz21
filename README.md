@@ -83,7 +83,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -103,8 +103,8 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ```text
 🌞 Morning                2552 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-🌆 Daytime                2750 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-🌃 Evening                7116 commits        ██████████░░░░░░░░░░░░░░░   39.68 % 
+🌆 Daytime                2750 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+🌃 Evening                7114 commits        ██████████░░░░░░░░░░░░░░░   39.67 % 
 🌙 Night                  5516 commits        ████████░░░░░░░░░░░░░░░░░   30.76 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -113,9 +113,9 @@ I am an inspired back-end developer and full-time college student from the UK. I
 Monday                   2583 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 Tuesday                  2299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 Wednesday                2859 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Thursday                 3255 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Thursday                 3254 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
 Friday                   2058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Saturday                 2316 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Saturday                 2315 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 Sunday                   2564 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 ```
 
@@ -126,19 +126,18 @@ Sunday                   2564 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               19 hrs 16 mins      ██████████████████████░░░   89.54 % 
-YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Prisma                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Docker                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+TypeScript               19 hrs 2 mins       ███████████████████████░░   90.80 % 
+Prisma                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Docker                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Kings-Utility            20 hrs 29 mins      ████████████████████████░   95.24 % 
-sapphire-plugins         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-sapphire.github          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Kings-Utility            20 hrs 29 mins      ████████████████████████░   97.74 % 
+sapphire.github          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -160,7 +159,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 01:07:56 UTC
+ Last Updated on 15/09/2026 06:57:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
