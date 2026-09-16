@@ -99,53 +99,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2552 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-🌆 Daytime                2768 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-🌃 Evening                7114 commits        ██████████░░░░░░░░░░░░░░░   39.63 % 
-🌙 Night                  5516 commits        ████████░░░░░░░░░░░░░░░░░   30.73 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2592 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Tuesday                  2299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Wednesday                2868 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Thursday                 3254 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Friday                   2058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Saturday                 2315 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Sunday                   2564 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-TypeScript               19 hrs 2 mins       ███████████████████████░░   90.80 % 
-Prisma                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Docker                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 58 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Kings-Utility            20 hrs 29 mins      ████████████████████████░   97.74 % 
-sapphire.github          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -159,7 +112,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 23:22:06 UTC
+ Last Updated on 16/09/2026 01:59:03 UTC
 <!--END_SECTION:waka-->
 </details>
 
