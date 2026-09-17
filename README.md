@@ -89,7 +89,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 91.9 kB Used in GitHub's Storage 
+> 📦 91.8 kB Used in GitHub's Storage 
  > 
 > 🏆 903 Contributions in the Year 2026
  > 
@@ -103,20 +103,20 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ```text
 🌞 Morning                2554 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-🌆 Daytime                2776 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌆 Daytime                2778 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 🌃 Evening                7114 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
 🌙 Night                  5516 commits        ████████░░░░░░░░░░░░░░░░░   30.71 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2596 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Monday                   2597 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
 Tuesday                  2299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Wednesday                2874 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Wednesday                2875 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
 Thursday                 3254 commits        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 Friday                   2058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 Saturday                 2315 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Sunday                   2564 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Sunday                   2564 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 ```
 
 
@@ -126,18 +126,18 @@ Sunday                   2564 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               19 hrs 4 mins       ███████████████████████░░   91.33 % 
-Prisma                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Docker                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript               14 hrs 53 mins      ███████████████████████░░   90.65 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Prisma                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Docker                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 53 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 25 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Kings-Utility            20 hrs 24 mins      ████████████████████████░   97.73 % 
-sapphire.github          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Kings-Utility            15 hrs 56 mins      ████████████████████████░   97.11 % 
+sapphire.github          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -159,7 +159,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 23:26:04 UTC
+ Last Updated on 17/09/2026 02:03:05 UTC
 <!--END_SECTION:waka-->
 </details>
 
