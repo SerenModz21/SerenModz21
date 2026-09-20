@@ -126,19 +126,19 @@ Sunday                   2855 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               2 hrs 5 mins        █████████████████░░░░░░░░   67.26 % 
-Docker                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Prisma                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+TypeScript               1 hr 33 mins        ███████████████░░░░░░░░░░   60.32 % 
+Docker                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Prisma                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       ███████████████████░░░░░░   76.61 % 
-Zed                      43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+VS Code                  1 hr 50 mins        ██████████████████░░░░░░░   71.65 % 
+Zed                      43 mins             ███████░░░░░░░░░░░░░░░░░░   28.35 % 
 
 🐱‍💻 Projects: 
-Kings-Utility            3 hrs 3 mins        ████████████████████████░   97.99 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Kings-Utility            2 hrs 30 mins       ████████████████████████░   97.56 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -160,7 +160,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 23:48:43 UTC
+ Last Updated on 20/09/2026 01:57:03 UTC
 <!--END_SECTION:waka-->
 </details>
 
