@@ -99,54 +99,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2556 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-🌆 Daytime                2761 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-🌃 Evening                7119 commits        ██████████░░░░░░░░░░░░░░░   39.66 % 
-🌙 Night                  5516 commits        ████████░░░░░░░░░░░░░░░░░   30.73 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2585 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Tuesday                  2299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Wednesday                2863 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Thursday                 3260 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Friday                   2063 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Saturday                 2316 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Sunday                   2566 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-TypeScript               1 hr 33 mins        ███████████████░░░░░░░░░░   60.32 % 
-Docker                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Prisma                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-
-🔥 Editors: 
-VS Code                  1 hr 50 mins        ██████████████████░░░░░░░   71.65 % 
-Zed                      43 mins             ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-
-🐱‍💻 Projects: 
-Kings-Utility            2 hrs 30 mins       ████████████████████████░   97.56 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -160,7 +112,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 23:52:05 UTC
+ Last Updated on 21/09/2026 01:57:26 UTC
 <!--END_SECTION:waka-->
 </details>
 
