@@ -99,6 +99,53 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2556 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+🌆 Daytime                2761 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+🌃 Evening                7119 commits        ██████████░░░░░░░░░░░░░░░   39.66 % 
+🌙 Night                  5516 commits        ████████░░░░░░░░░░░░░░░░░   30.73 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2585 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Tuesday                  2299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Wednesday                2863 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Thursday                 3260 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Friday                   2063 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Saturday                 2316 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Sunday                   2566 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+TypeScript               22 mins             █████████████░░░░░░░░░░░░   51.41 % 
+jsonc                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+git ignore               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Git                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+
+🔥 Editors: 
+Zed                      43 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Kings-Utility            40 mins             ███████████████████████░░   91.39 % 
+Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,7 +159,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 01:57:26 UTC
+ Last Updated on 21/09/2026 07:25:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
