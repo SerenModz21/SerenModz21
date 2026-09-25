@@ -89,7 +89,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 91.8 kB Used in GitHub's Storage 
+> 📦 91.7 kB Used in GitHub's Storage 
  > 
 > 🏆 916 Contributions in the Year 2026
  > 
@@ -126,18 +126,13 @@ Sunday                   2568 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               22 mins             █████████████░░░░░░░░░░░░   51.41 % 
-jsonc                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-git ignore               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Git                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Kings-Utility            40 mins             ███████████████████████░░   91.39 % 
-Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -159,7 +154,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 01:04:05 UTC
+ Last Updated on 25/09/2026 05:46:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
