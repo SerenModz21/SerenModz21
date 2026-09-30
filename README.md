@@ -89,9 +89,9 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 **🐱 My GitHub Data** 
 
-> 📦 94.4 kB Used in GitHub's Storage 
+> 📦 94.5 kB Used in GitHub's Storage 
  > 
-> 🏆 923 Contributions in the Year 2026
+> 🏆 924 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,17 +150,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               32 repos            ██████████████░░░░░░░░░░░   54.24 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Shell                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+TypeScript               33 repos            ██████████████░░░░░░░░░░░   55.00 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Shell                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 30/09/2026 19:52:39 UTC
+ Last Updated on 30/09/2026 23:23:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
