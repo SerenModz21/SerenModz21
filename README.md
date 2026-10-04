@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C956%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C959%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
 
@@ -126,19 +126,19 @@ Sunday                   3039 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               4 hrs 45 mins       ██████████████████████░░░   88.97 % 
-Astro                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-TSConfig                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+TypeScript               7 hrs 10 mins       ██████████████████████░░░   87.23 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Astro                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TSConfig                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-static-site              3 hrs 8 mins        ███████████████░░░░░░░░░░   58.79 % 
-Kings-Utility            2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
-sapphire-examples        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Kings-Utility            5 hrs 3 mins        ███████████████░░░░░░░░░░   61.40 % 
+static-site              3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.17 % 
+sapphire-examples        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -160,7 +160,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 23:32:55 UTC
+ Last Updated on 04/10/2026 03:07:45 UTC
 <!--END_SECTION:waka-->
 </details>
 
