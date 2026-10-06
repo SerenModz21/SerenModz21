@@ -99,6 +99,52 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+🌆 Daytime                3314 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+🌃 Evening                8225 commits        ██████████░░░░░░░░░░░░░░░   39.05 % 
+🌙 Night                  6524 commits        ████████░░░░░░░░░░░░░░░░░   30.97 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   3050 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Tuesday                  2599 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Wednesday                3460 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Thursday                 3790 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Friday                   2527 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Saturday                 2594 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Sunday                   3045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+TypeScript               4 hrs 32 mins       ██████████████████████░░░   89.27 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Prisma                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 5 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Kings-Utility            5 hrs 5 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,7 +158,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 09:40:03 UTC
+ Last Updated on 06/10/2026 16:29:23 UTC
 <!--END_SECTION:waka-->
 </details>
 
