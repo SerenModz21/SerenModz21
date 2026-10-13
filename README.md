@@ -79,11 +79,11 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C981%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C989%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.97%20million%20lines%20of%20code-blue?style=flat)
 
@@ -102,21 +102,21 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2917 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-🌆 Daytime                3181 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-🌃 Evening                7941 commits        ██████████░░░░░░░░░░░░░░░   38.97 % 
+🌞 Morning                2917 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+🌆 Daytime                3176 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+🌃 Evening                7941 commits        ██████████░░░░░░░░░░░░░░░   38.98 % 
 🌙 Night                  6339 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2937 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Monday                   2934 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 Tuesday                  2570 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Wednesday                3336 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Wednesday                3333 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
 Thursday                 3661 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Friday                   2412 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Friday                   2413 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 Saturday                 2515 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Sunday                   2947 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Sunday                   2947 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 ```
 
 
@@ -126,21 +126,21 @@ Sunday                   2947 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               12 hrs 46 mins      ███████████████░░░░░░░░░░   58.14 % 
-JSON                     4 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-TSConfig                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TypeScript               16 hrs 40 mins      ██████████████░░░░░░░░░░░   54.71 % 
+JSON                     8 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+Markdown                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+YAML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+TSConfig                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 47 mins      █████████████████████████   99.13 % 
-Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+VS Code                  30 hrs 16 mins      █████████████████████████   99.37 % 
+Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🐱‍💻 Projects: 
-seedcord                 20 hrs 18 mins      ███████████████████████░░   92.38 % 
-kings-world.net          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Kings-Utility            41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-test-dummy               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+seedcord                 28 hrs 47 mins      ████████████████████████░   94.50 % 
+kings-world.net          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Kings-Utility            41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+test-dummy               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -162,7 +162,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 01:48:15 UTC
+ Last Updated on 13/10/2026 08:44:30 UTC
 <!--END_SECTION:waka-->
 </details>
 
