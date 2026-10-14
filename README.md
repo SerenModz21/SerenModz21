@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C989%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C992%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
 
@@ -102,17 +102,17 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2921 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-🌆 Daytime                3196 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-🌃 Evening                7939 commits        ██████████░░░░░░░░░░░░░░░   38.93 % 
-🌙 Night                  6339 commits        ████████░░░░░░░░░░░░░░░░░   31.08 % 
+🌞 Morning                2921 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+🌆 Daytime                3190 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+🌃 Evening                7939 commits        ██████████░░░░░░░░░░░░░░░   38.94 % 
+🌙 Night                  6339 commits        ████████░░░░░░░░░░░░░░░░░   31.09 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2939 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Monday                   2936 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 Tuesday                  2570 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Wednesday                3338 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Wednesday                3335 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
 Thursday                 3664 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
 Friday                   2419 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 Saturday                 2514 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
@@ -126,21 +126,21 @@ Sunday                   2951 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               16 hrs 40 mins      ██████████████░░░░░░░░░░░   54.71 % 
-JSON                     8 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-Markdown                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-YAML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-TSConfig                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+TypeScript               18 hrs 44 mins      ██████████████░░░░░░░░░░░   56.57 % 
+JSON                     8 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+YAML                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Markdown                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+TSConfig                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 16 mins      █████████████████████████   99.37 % 
-Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+VS Code                  32 hrs 57 mins      █████████████████████████   99.42 % 
+Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-seedcord                 28 hrs 47 mins      ████████████████████████░   94.50 % 
-kings-world.net          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Kings-Utility            41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-test-dummy               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+seedcord                 31 hrs 28 mins      ████████████████████████░   94.95 % 
+kings-world.net          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Kings-Utility            41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+test-dummy               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -162,7 +162,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 00:51:26 UTC
+ Last Updated on 14/10/2026 05:42:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
