@@ -91,7 +91,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 > 📦 94.4 kB Used in GitHub's Storage 
  > 
-> 🏆 973 Contributions in the Year 2026
+> 🏆 976 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,6 +99,55 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2922 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+🌆 Daytime                3186 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+🌃 Evening                7942 commits        ██████████░░░░░░░░░░░░░░░   38.95 % 
+🌙 Night                  6342 commits        ████████░░░░░░░░░░░░░░░░░   31.10 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2934 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Tuesday                  2570 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Wednesday                3336 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Thursday                 3668 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Friday                   2419 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Saturday                 2514 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Sunday                   2951 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+TypeScript               18 hrs 53 mins      ██████████████░░░░░░░░░░░   55.89 % 
+JSON                     8 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+YAML                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Markdown                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+TSConfig                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+
+🔥 Editors: 
+VS Code                  33 hrs 37 mins      █████████████████████████   99.43 % 
+Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+🐱‍💻 Projects: 
+seedcord                 31 hrs 55 mins      ████████████████████████░   94.39 % 
+Kings-Utility            1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+test-dummy               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,7 +161,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 05:43:37 UTC
+ Last Updated on 15/10/2026 10:35:19 UTC
 <!--END_SECTION:waka-->
 </details>
 
