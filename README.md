@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C995%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C000%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
 
@@ -126,20 +126,19 @@ Sunday                   2918 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               19 hrs 14 mins      ██████████████░░░░░░░░░░░   55.13 % 
-JSON                     8 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-YAML                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-TSConfig                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               18 hrs 44 mins      ██████████████░░░░░░░░░░░   54.79 % 
+JSON                     8 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+YAML                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Markdown                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+TSConfig                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 41 mins      █████████████████████████   99.45 % 
-Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+VS Code                  34 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-seedcord                 32 hrs 49 mins      ████████████████████████░   94.07 % 
-Kings-Utility            1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-test-dummy               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+seedcord                 30 hrs 54 mins      ███████████████████████░░   90.33 % 
+Kings-Utility            3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+test-dummy               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -161,7 +160,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 23:40:13 UTC
+ Last Updated on 18/10/2026 01:47:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
