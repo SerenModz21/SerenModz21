@@ -79,9 +79,9 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C001%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C010%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -126,24 +126,39 @@ Sunday                   2883 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               10 hrs 16 mins      █████████████░░░░░░░░░░░░   51.11 % 
-JSON                     5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-YAML                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-TSConfig                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TypeScript               10 hrs 48 mins      █████████████░░░░░░░░░░░░   51.05 % 
+JSON                     5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+YAML                     2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+TSConfig                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  20 hrs 20 mins      ████████████████████████░   96.08 % 
+Copilot CLI              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 🐱‍💻 Projects: 
-seedcord                 17 hrs 24 mins      ██████████████████████░░░   86.62 % 
-Kings-Utility            2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+seedcord                 18 hrs 28 mins      ██████████████████████░░░   87.29 % 
+Kings-Utility            2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 4 mins (5.07%)
+
+✍️ 0 lines written by AI, 3,627 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 16 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 676 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -159,7 +174,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 00:09:58 UTC
+ Last Updated on 20/10/2026 03:20:51 UTC
 <!--END_SECTION:waka-->
 </details>
 
