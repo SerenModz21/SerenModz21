@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C010%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C010%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2039%20mins-blue?style=flat)
 
@@ -102,20 +102,20 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2835 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-🌆 Daytime                2988 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-🌃 Evening                7814 commits        ██████████░░░░░░░░░░░░░░░   39.30 % 
-🌙 Night                  6247 commits        ████████░░░░░░░░░░░░░░░░░   31.42 % 
+🌞 Morning                2835 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+🌆 Daytime                2992 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+🌃 Evening                7814 commits        ██████████░░░░░░░░░░░░░░░   39.29 % 
+🌙 Night                  6247 commits        ████████░░░░░░░░░░░░░░░░░   31.41 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2898 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Monday                   2900 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 Tuesday                  2508 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Wednesday                3291 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Wednesday                3293 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
 Thursday                 3569 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
 Friday                   2265 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Saturday                 2479 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Saturday                 2479 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 Sunday                   2874 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 ```
 
@@ -126,27 +126,28 @@ Sunday                   2874 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               8 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.08 % 
-JSON                     5 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-YAML                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-TSConfig                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+TypeScript               8 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.29 % 
+JSON                     4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+YAML                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+TSConfig                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 36 mins      ████████████████████████░   95.50 % 
-Copilot CLI              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+VS Code                  16 hrs 25 mins      ████████████████████████░   95.19 % 
+Copilot CLI              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🐱‍💻 Projects: 
-seedcord                 15 hrs 45 mins      █████████████████████░░░░   85.42 % 
-Kings-Utility            2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+seedcord                 15 hrs 20 mins      ██████████████████████░░░   88.90 % 
+Kings-Utility            1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+docs                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 4 mins (5.82%)
+⏱ AI Coding Time: 1 hr 4 mins (6.22%)
 
-✍️ 0 lines written by AI, 2,974 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,902 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -174,7 +175,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 01:10:01 UTC
+ Last Updated on 22/10/2026 06:51:05 UTC
 <!--END_SECTION:waka-->
 </details>
 
