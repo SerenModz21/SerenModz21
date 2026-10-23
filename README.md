@@ -99,6 +99,72 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2839 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+🌆 Daytime                3034 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+🌃 Evening                7812 commits        ██████████░░░░░░░░░░░░░░░   39.19 % 
+🌙 Night                  6247 commits        ████████░░░░░░░░░░░░░░░░░   31.34 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2921 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Tuesday                  2508 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Wednesday                3314 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Thursday                 3573 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Friday                   2264 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Saturday                 2478 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Sunday                   2874 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+TypeScript               7 hrs 24 mins       ████████████░░░░░░░░░░░░░   47.63 % 
+JSON                     4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+YAML                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+TSConfig                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 43 mins      ████████████████████████░   94.66 % 
+Copilot CLI              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+
+🐱‍💻 Projects: 
+seedcord                 13 hrs 18 mins      █████████████████████░░░░   85.57 % 
+Kings-Utility            1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+docs                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+discord-status-webhook   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 4 mins (6.9%)
+
+✍️ 0 lines written by AI, 1,821 lines written by hand (0.0% AI-written)
+
+🔤 2,535,235 Input Tokens, 227,714 Output Tokens
+
+💵 $0.47 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 16 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 676 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,7 +178,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 02:16:43 UTC
+ Last Updated on 23/10/2026 08:10:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
