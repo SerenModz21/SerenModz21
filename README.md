@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C010%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C011%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2039%20mins-blue?style=flat)
 
@@ -99,69 +99,6 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2840 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-🌆 Daytime                3014 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-🌃 Evening                7813 commits        ██████████░░░░░░░░░░░░░░░   39.23 % 
-🌙 Night                  6248 commits        ████████░░░░░░░░░░░░░░░░░   31.37 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2911 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Tuesday                  2508 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Wednesday                3304 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Thursday                 3574 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Friday                   2265 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Saturday                 2479 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Sunday                   2874 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-TypeScript               8 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.29 % 
-JSON                     4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-YAML                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-TSConfig                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 25 mins      ████████████████████████░   95.19 % 
-Copilot CLI              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-
-🐱‍💻 Projects: 
-seedcord                 15 hrs 20 mins      ██████████████████████░░░   88.90 % 
-Kings-Utility            1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-docs                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 4 mins (6.22%)
-
-✍️ 0 lines written by AI, 2,902 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 16 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 676 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -175,7 +112,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 23:53:21 UTC
+ Last Updated on 23/10/2026 02:16:43 UTC
 <!--END_SECTION:waka-->
 </details>
 
