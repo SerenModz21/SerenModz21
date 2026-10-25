@@ -102,21 +102,21 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3423 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-🌆 Daytime                3493 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-🌃 Evening                9302 commits        ██████████░░░░░░░░░░░░░░░   38.91 % 
-🌙 Night                  7691 commits        ████████░░░░░░░░░░░░░░░░░   32.17 % 
+🌞 Morning                3423 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+🌆 Daytime                3503 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+🌃 Evening                9302 commits        ██████████░░░░░░░░░░░░░░░   38.89 % 
+🌙 Night                  7691 commits        ████████░░░░░░░░░░░░░░░░░   32.15 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3420 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Monday                   3425 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 Tuesday                  2927 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Wednesday                3982 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Thursday                 4329 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Friday                   2854 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Saturday                 2880 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Sunday                   3517 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Wednesday                3987 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Thursday                 4329 commits        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Friday                   2854 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Saturday                 2880 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Sunday                   3517 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 ```
 
 
@@ -126,29 +126,29 @@ Sunday                   3517 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               7 hrs 24 mins       ████████████░░░░░░░░░░░░░   47.63 % 
-JSON                     4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-YAML                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-TSConfig                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+TypeScript               4 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.93 % 
+JSON                     3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   34.00 % 
+Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+TSConfig                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 43 mins      ████████████████████████░   94.66 % 
-Copilot CLI              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+VS Code                  9 hrs 58 mins       ███████████████████████░░   92.32 % 
+Copilot CLI              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 🐱‍💻 Projects: 
-seedcord                 13 hrs 18 mins      █████████████████████░░░░   85.57 % 
-Kings-Utility            1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-docs                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-discord-status-webhook   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+seedcord                 10 hrs 1 min        ███████████████████████░░   92.85 % 
+Kings-Utility            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+docs                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+discord-status-webhook   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 4 mins (6.9%)
+⏱ AI Coding Time: 1 hr 4 mins (9.93%)
 
-✍️ 0 lines written by AI, 1,821 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,295 lines written by hand (0.0% AI-written)
 
 🔤 2,535,235 Input Tokens, 227,714 Output Tokens
 
@@ -178,7 +178,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 00:46:07 UTC
+ Last Updated on 25/10/2026 05:34:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
