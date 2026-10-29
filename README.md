@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C028%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C032%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2039%20mins-blue?style=flat)
 
@@ -126,21 +126,21 @@ Sunday                   2945 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     6 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.64 % 
-TypeScript               6 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.10 % 
-YAML                     2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+TypeScript               8 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.93 % 
+JSON                     7 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
+YAML                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Markdown                 1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-seedcord                 12 hrs 58 mins      ██████████████████░░░░░░░   72.55 % 
-Kings-Utility            4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-docs                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-dummy-pr-2               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-idk                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+seedcord                 16 hrs 47 mins      ███████████████████░░░░░░   77.13 % 
+Kings-Utility            4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+dummy-pr-2               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+idk                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+discord-status-webhook   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -162,7 +162,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 03:10:31 UTC
+ Last Updated on 29/10/2026 10:39:18 UTC
 <!--END_SECTION:waka-->
 </details>
 
