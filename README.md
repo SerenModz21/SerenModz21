@@ -79,11 +79,11 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C032%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C034%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.83%20million%20lines%20of%20code-blue?style=flat)
 
@@ -102,20 +102,20 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2841 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-🌆 Daytime                3091 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-🌃 Evening                7796 commits        ██████████░░░░░░░░░░░░░░░   38.86 % 
-🌙 Night                  6334 commits        ████████░░░░░░░░░░░░░░░░░   31.57 % 
+🌞 Morning                2842 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+🌆 Daytime                3094 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+🌃 Evening                7797 commits        ██████████░░░░░░░░░░░░░░░   38.85 % 
+🌙 Night                  6335 commits        ████████░░░░░░░░░░░░░░░░░   31.57 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2983 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Tuesday                  2479 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Monday                   2983 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Tuesday                  2479 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 Wednesday                3273 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 3648 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Friday                   2243 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Saturday                 2491 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Thursday                 3649 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Friday                   2247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Saturday                 2492 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
 Sunday                   2945 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
 ```
 
@@ -126,27 +126,43 @@ Sunday                   2945 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               8 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.93 % 
-JSON                     7 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
-YAML                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Markdown                 1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+TypeScript               9 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
+JSON                     7 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.14 % 
+YAML                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Markdown                 1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 58 mins      █████████████████████████   99.55 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-seedcord                 16 hrs 47 mins      ███████████████████░░░░░░   77.13 % 
-Kings-Utility            4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-dummy-pr-2               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-idk                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-discord-status-webhook   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+seedcord                 18 hrs 36 mins      ████████████████████░░░░░   80.60 % 
+Kings-Utility            4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+dummy-pr-2               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+idk                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 mins (0.66%)
+
+✍️ 0 lines written by AI, 21,214 lines written by hand (0.0% AI-written)
+
+🔤 6,168,730 Input Tokens, 850,820 Output Tokens
+
+💵 $1.97 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 178 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -162,7 +178,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 02:21:35 UTC
+ Last Updated on 30/10/2026 09:17:17 UTC
 <!--END_SECTION:waka-->
 </details>
 
