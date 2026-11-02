@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C034%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C035%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2048%20mins-blue?style=flat)
 
@@ -102,20 +102,20 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3010 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-🌆 Daytime                3309 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌃 Evening                8254 commits        ██████████░░░░░░░░░░░░░░░   38.82 % 
-🌙 Night                  6690 commits        ████████░░░░░░░░░░░░░░░░░   31.46 % 
+🌞 Morning                3015 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+🌆 Daytime                3310 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌃 Evening                8253 commits        ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌙 Night                  6689 commits        ████████░░░░░░░░░░░░░░░░░   31.45 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3127 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Monday                   3133 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 Tuesday                  2577 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 Wednesday                3515 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Thursday                 3844 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Friday                   2440 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Saturday                 2656 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Thursday                 3843 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Friday                   2440 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Saturday                 2655 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 Sunday                   3104 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 ```
 
@@ -126,29 +126,28 @@ Sunday                   3104 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               9 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.13 % 
-JSON                     7 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
-YAML                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Markdown                 1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+TypeScript               7 hrs 20 mins       █████████████░░░░░░░░░░░░   51.25 % 
+JSON                     3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+HTML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 14 mins      █████████████████████████   99.56 % 
-Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VS Code                  14 hrs 12 mins      █████████████████████████   99.28 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🐱‍💻 Projects: 
-seedcord                 18 hrs 51 mins      ████████████████████░░░░░   80.82 % 
-Kings-Utility            4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-dummy-pr-2               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-idk                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+seedcord                 12 hrs 53 mins      ███████████████████████░░   90.14 % 
+Kings-Utility            1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+dummy-pr-2               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (0.66%)
+⏱ AI Coding Time: 9 mins (1.07%)
 
-✍️ 0 lines written by AI, 21,244 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 19,375 lines written by hand (0.0% AI-written)
 
 🔤 6,168,730 Input Tokens, 850,820 Output Tokens
 
@@ -178,7 +177,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2026 04:20:07 UTC
+ Last Updated on 02/11/2026 13:06:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
