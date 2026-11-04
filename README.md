@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C041%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C044%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2048%20mins-blue?style=flat)
 
@@ -126,28 +126,27 @@ Sunday                   3109 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               12 hrs 1 min        ████████████████░░░░░░░░░   65.83 % 
-JSON                     2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-HTML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Prisma                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+TypeScript               11 hrs 5 mins       █████████████████░░░░░░░░   69.80 % 
+JSON                     2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Prisma                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 9 mins       █████████████████████████   99.43 % 
-Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  15 hrs 47 mins      █████████████████████████   99.35 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🐱‍💻 Projects: 
-seedcord                 10 hrs 58 mins      ███████████████░░░░░░░░░░   60.12 % 
-Kings-Utility            7 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.23 % 
-dummy-pr-2               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+seedcord                 8 hrs 44 mins       ██████████████░░░░░░░░░░░   54.96 % 
+Kings-Utility            7 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (0.84%)
+⏱ AI Coding Time: 9 mins (0.96%)
 
-✍️ 0 lines written by AI, 19,815 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 19,825 lines written by hand (0.0% AI-written)
 
 🔤 6,168,730 Input Tokens, 850,820 Output Tokens
 
@@ -177,7 +176,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2026 03:39:16 UTC
+ Last Updated on 04/11/2026 11:50:17 UTC
 <!--END_SECTION:waka-->
 </details>
 
