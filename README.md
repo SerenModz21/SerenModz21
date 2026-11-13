@@ -99,6 +99,55 @@ I am an inspired back-end developer and full-time college student from the UK. I
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2867 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+🌆 Daytime                3214 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+🌃 Evening                7874 commits        ██████████░░░░░░░░░░░░░░░   39.01 % 
+🌙 Night                  6227 commits        ████████░░░░░░░░░░░░░░░░░   30.85 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2999 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Tuesday                  2443 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Wednesday                3405 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Thursday                 3577 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Friday                   2304 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Saturday                 2538 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Sunday                   2916 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+TypeScript               7 hrs 55 mins       █████████████░░░░░░░░░░░░   52.93 % 
+JSON                     3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+TSConfig                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 58 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+seedcord                 13 hrs 35 mins      ███████████████████████░░   90.76 % 
+skynetbot                43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+cdn-worker               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+scaffold-yarn-project    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,7 +161,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2026 10:20:34 UTC
+ Last Updated on 13/11/2026 18:22:48 UTC
 <!--END_SECTION:waka-->
 </details>
 
