@@ -85,13 +85,13 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.86%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 94.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,130 Contributions in the Year 2026
+> 🏆 1,133 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,21 +102,21 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3003 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-🌆 Daytime                3323 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-🌃 Evening                8190 commits        ██████████░░░░░░░░░░░░░░░   38.60 % 
-🌙 Night                  6704 commits        ████████░░░░░░░░░░░░░░░░░   31.59 % 
+🌞 Morning                2892 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+🌆 Daytime                3251 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+🌃 Evening                7906 commits        ██████████░░░░░░░░░░░░░░░   38.87 % 
+🌙 Night                  6288 commits        ████████░░░░░░░░░░░░░░░░░   30.92 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3155 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Tuesday                  2581 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Wednesday                3532 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Thursday                 3777 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Friday                   2423 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Saturday                 2597 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Sunday                   3155 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Monday                   3051 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Tuesday                  2472 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Wednesday                3418 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Thursday                 3589 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Friday                   2328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Saturday                 2542 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Sunday                   2937 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
 ```
 
 
@@ -126,20 +126,19 @@ Sunday                   3155 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               7 hrs 55 mins       █████████████░░░░░░░░░░░░   52.93 % 
-JSON                     3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-TSConfig                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+TypeScript               3 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
+JSON                     2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.38 % 
+YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-seedcord                 13 hrs 35 mins      ███████████████████████░░   90.76 % 
-skynetbot                43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-cdn-worker               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-scaffold-yarn-project    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+seedcord                 7 hrs 12 mins       ██████████████████████░░░   86.45 % 
+skynetbot                43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+cdn-worker               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -161,7 +160,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2026 00:38:13 UTC
+ Last Updated on 16/11/2026 07:35:28 UTC
 <!--END_SECTION:waka-->
 </details>
 
