@@ -79,7 +79,7 @@ I am an inspired back-end developer and full-time college student from the UK. I
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C061%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C062%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2048%20mins-blue?style=flat)
 
@@ -102,20 +102,20 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2408 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-🌆 Daytime                2793 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-🌃 Evening                6658 commits        ██████████░░░░░░░░░░░░░░░   39.41 % 
-🌙 Night                  5037 commits        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+🌞 Morning                2408 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+🌆 Daytime                2789 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌃 Evening                6658 commits        ██████████░░░░░░░░░░░░░░░   39.42 % 
+🌙 Night                  5037 commits        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2599 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Tuesday                  2155 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Wednesday                2844 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Thursday                 2942 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Monday                   2597 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Tuesday                  2155 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Wednesday                2842 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Thursday                 2942 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
 Friday                   1826 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Saturday                 2226 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Saturday                 2226 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 Sunday                   2304 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 
@@ -126,18 +126,18 @@ Sunday                   2304 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     15 mins             ███████████░░░░░░░░░░░░░░   44.20 % 
-TypeScript               9 mins              ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-YAML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JSON                     1 hr 12 mins        █████████████████████░░░░   82.16 % 
+TypeScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sapphire-plugins         30 mins             ██████████████████████░░░   87.99 % 
-seedcord                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+seedcord                 57 mins             ████████████████░░░░░░░░░   65.28 % 
+sapphire-plugins         30 mins             █████████░░░░░░░░░░░░░░░░   34.72 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -159,7 +159,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 04:53:56 UTC
+ Last Updated on 20/11/2026 13:51:01 UTC
 <!--END_SECTION:waka-->
 </details>
 
