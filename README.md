@@ -85,13 +85,13 @@ I am an inspired back-end developer and full-time college student from the UK. I
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.61%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 94.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,158 Contributions in the Year 2026
+> 🏆 1,173 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,21 +102,21 @@ I am an inspired back-end developer and full-time college student from the UK. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4391 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-🌆 Daytime                4509 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-🌃 Evening                11791 commits       ██████████░░░░░░░░░░░░░░░   38.01 % 
-🌙 Night                  10332 commits       ████████░░░░░░░░░░░░░░░░░   33.30 % 
+🌞 Morning                4193 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+🌆 Daytime                4387 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+🌃 Evening                11378 commits       ██████████░░░░░░░░░░░░░░░   38.34 % 
+🌙 Night                  9718 commits        ████████░░░░░░░░░░░░░░░░░   32.75 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   4493 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Tuesday                  3438 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Wednesday                5221 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Thursday                 5669 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Friday                   3706 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Saturday                 3557 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Sunday                   4939 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Monday                   4291 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Tuesday                  3280 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Wednesday                5047 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Thursday                 5391 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Friday                   3566 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Saturday                 3454 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Sunday                   4647 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 ```
 
 
@@ -159,7 +159,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2026 10:35:50 UTC
+ Last Updated on 22/11/2026 18:16:51 UTC
 <!--END_SECTION:waka-->
 </details>
 
